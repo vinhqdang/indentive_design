@@ -65,3 +65,15 @@ Cohen (1960); Collier (2011); Krippendorff (2018, 4th ed.); Mahoney (2012); Seaw
 * Supporting Information chưa được cập nhật (cần: xoá câu "earlier draft", thống nhất "five dimensions", cập nhật dòng 12, thêm kết quả IRR/verification).
 * Định dạng theo hướng dẫn tác giả của tạp chí đích: trang hướng dẫn của Innovation and Development trả lỗi 403 khi tôi thử mở, nên giới hạn số từ, độ dài abstract, kiểu trích dẫn chưa được xác nhận.
 * Cover letter.
+
+## Cải tiến vượt ra ngoài nhận xét của reviewer (vòng nâng cấp)
+
+| Thay đổi | Chỗ | Lý do |
+|---|---|---|
+| **Sửa khẳng định trung tâm.** "Không nước nào có công cụ dưới quy mô facility" không còn đúng cho cả bốn nước. Bậc vào của DESAC (RM2,5 triệu vốn đã nộp, khoảng US$550.000) ở Malaysia gần bằng chi phí chứa một máy chủ 8 GPU trang bị đầy đủ. Khẳng định nay là: ba nước không có; Malaysia là ca chưa rõ | Abstract, §1, §4.5, §5.1, Bảng 3 và 4 (E2), §6, §8 | Đây là mâu thuẫn nội tại mà reviewer chưa nêu nhưng người đọc kỹ sẽ thấy: bản trước vừa tả DESAC là "đường liên tục từ nhỏ đến lớn" vừa nói không có bậc nào dưới quy mô facility |
+| Phân loại bốn kiến trúc ưu đãi: cổng đơn (Thailand), thang bậc (Malaysia), danh sách ưu tiên (Vietnam), bậc theo quy mô doanh nghiệp (Philippines) | §4.5, Bảng 5 | Chuyển bài từ mô tả bốn nước sang khung phân loại dùng lại được; trả lời R1 "vì sao Vietnam khác Thailand" bằng loại công cụ |
+| Hình 1: thang ngưỡng của từng nước so với mốc chi phí (1 máy chủ, 1 MW, 40 MW), thang log | §4.5, `fig1_threshold_ladder.png`, `make_figure1.py` | Làm "khoảng trống" thấy được bằng số; mốc chi phí chỉ dùng hai benchmark bài đã trích và giả định 12 kW chưa có nguồn |
+| Cơ sở lý thuyết cho H2: lập luận tự khám phá của Hausmann & Rodrik (2003) áp dụng cho bậc vào | §2.5 "Why entry rungs matter" | R1 hỏi lý thuyết nào dự đoán H2; đây là cách trả lời, ghi rõ là ứng dụng của tác giả, không phải kết quả của họ |
+| Hai tài liệu public finance: Bloom, Griffith & Van Reenen (2002); Zee, Stotsky & Ley (2002) | §2.3 | Nối với văn liệu về hiệu quả ưu đãi và thiết kế ưu đãi cho nước đang phát triển. Zee et al.: đã xác nhận tiêu đề, tập, trang; tên tác giả suy từ một trích dẫn gián tiếp, cần kiểm lại |
+| Bảng 6: thang bậc minh hoạ cho khuyến nghị chính sách, tính từ benchmark | §6 | R1 phê bình khuyến nghị quá chung; nay có độ lớn từng bậc và loại công cụ phù hợp |
+| Đánh số lại bảng theo thứ tự xuất hiện (Bảng 1 nguồn, Bảng 2 rubric) | toàn bài | Bảng 2 trước đây xuất hiện trước Bảng 1 |
