@@ -115,3 +115,33 @@ Cập nhật cho SI:
 * **Thailand (nguồn thứ cấp, chưa phải văn bản BOI):** Activity 8.2.4 tối thiểu THB 5 tỷ **không gồm đất và vốn lưu động**, hệ thống điện tối thiểu 2 MW, tối thiểu hai trung tâm dữ liệu đạt ISO/IEC 27001 tại Thái Lan; Activity 8.2.1 bậc cao cần PUE ≤1,3 và tải IT ≥2 MW; Activity 8.2.2 (dịch vụ đám mây) tồn tại. Hàng 4 và ô "Thailand cloud: không có riêng" trong SI cần sửa sau khi đọc thông báo BOI gốc. Tìm: https://www.tilleke.com/insights/thailand-announces-new-investment-incentives-for-data-hosting/ (bản tóm tắt của hãng luật, không phải nguồn gốc).
 
 Việc còn lại cho Malaysia: hỏi hoặc tìm thực tiễn của MDEC về việc "cung cấp năng lực tính toán như một dịch vụ" có được chấp nhận là hoạt động Malaysia Digital hay không (câu hỏi quyết định cho kết quả của bài), và đo chi phí kiểm toán so với RM50.000.
+
+
+## H. Kết quả đọc văn bản gốc của Thailand (BOI) và Vietnam (Nghị định 260/2026), 9/10/2026
+
+**BOI là gì:** Board of Investment of Thailand, cơ quan xúc tiến đầu tư của Chính phủ Thái Lan, cấp ưu đãi thuế cho các dự án đầu tư đủ điều kiện theo danh mục hoạt động được khuyến khích.
+
+| Nguồn | Link | Ghi chú |
+|---|---|---|
+| BOI, Investment Promotion Guide 2026 (193 trang; danh mục toàn bộ hoạt động và điều kiện) | https://www.boi.go.th/upload/content/BOI_A_Guide_EN.pdf | Thay Guide 2025 trong bài; phần 8 là ngành số |
+| BOI, Announcement No. Sor. 9/2568 (14/11/2025), điều kiện trung tâm dữ liệu 8.2.1 (bản dịch không chính thức) | https://www.boi.go.th/upload/content/sor9_2568EN.pdf | Sửa 9/2565 và Sor. 5/2568; cần đối chiếu bản gốc tiếng Thái và Công báo |
+| BOI, tài liệu giới thiệu ngành số (4/8/2026) | https://www.boi.go.th/upload/content/20260804%20BOI%20EN.pdf | Tóm tắt |
+| BOI, thông cáo báo chí số 67/2569 (6/5/2026) | https://www.boi.go.th/upload/content/PR67_2569EN.pdf | Phê duyệt 958 tỷ baht, ba dự án trung tâm dữ liệu |
+
+Các điều chỉnh cho SI (Thailand):
+
+* **Hàng 1 (8.1.1):** ngưỡng 1,5 triệu baht/năm tính trên lương nhân sự IT Thái được tuyển thêm: **đúng**. Nhưng ưu đãi **không "không giới hạn"**: nhóm A2, miễn thuế TNDN 8 năm, trần bằng 100% chi phí đủ điều kiện (lương, nhân sự thời vụ, đào tạo, chi phí chứng chỉ ISO 29110/CMMI). Cần sửa.
+* **Hàng 3 (Competitiveness Enhancement):** là biện pháp **xuyên ngành** (Announcement 10/2565), áp dụng mọi nhóm hoạt động; điều kiện là chi cho R&D, cấp phép công nghệ nội địa, phát triển nhân lực, phát triển nhà cung ứng địa phương từ 1% doanh thu 3 năm đầu (hoặc 200 triệu baht, lấy mức thấp hơn) trở lên cho thêm 1 năm miễn thuế, đến 5% (hoặc 1.000 triệu baht) cho thêm 5 năm; tối đa 13 năm. Không phải "200 triệu baht cố định".
+* **Hàng 4 (8.2.4):** tách hai: 8.2.4.1 (dịch vụ cho thuê thiết bị tính toán có năng lực xử lý cao như GPU, nhóm A2) và 8.2.4.2 (dịch vụ lưu trữ khác, nhóm A3); cả hai: ≥5.000 triệu baht **không gồm đất và vốn lưu động**, đặt tại ít nhất hai trung tâm dữ liệu đạt ISO/IEC 27001 tại Thái Lan, kế hoạch lợi ích cho Thái Lan.
+* **Thêm hàng mới:** 8.2.1.1 và 8.2.1.2 (trung tâm dữ liệu): cả hai cần hệ thống điện cho tải IT ≥2 MW; 4 tuyến viễn thông; ISO/IEC 27001; ≥50% vị trí điều hành/chuyên gia là người Thái trong 3 năm; PUE ≤1,3 chỉ cho bậc cao. **8.2.2 (dịch vụ đám mây, nhóm A2): không có vốn tối thiểu**; đặt tại ≥2 trung tâm dữ liệu ISO 27001, kết nối ≥10 Gbps có dự phòng, ISO/IEC 27001 (bảo mật đám mây) và ISO/IEC 20000-1.
+* **Hàng 5 (TISO, hoạt động 10.1.1):** nhóm B (không miễn thuế TNDN); chi bán hàng và quản lý hằng năm ≥10 triệu baht; phạm vi gồm cả BPO quốc tế qua mạng viễn thông: **đúng** như bản thảo.
+* **Ô "Thailand cloud: không có riêng":** **sai**; có hoạt động 8.2.2.
+
+Các điều chỉnh cho SI (Vietnam, từ toàn văn Nghị định 260/2026/NĐ-CP, ban hành 30/6/2026, hiệu lực 1/7/2026, thay Nghị định 10/2024):
+
+* **Hàng 7:** trung tâm R&D công nghệ cao: ≥60% lao động làm R&D (≥85% đại học trở lên, ≥10% thạc sĩ trở lên), chi R&D ≥65% chi hoạt động hằng năm; công nghệ chiến lược: 70%, 85%, 20% (trong đó ≥5% tiến sĩ), 70% (Điều 8). **Đúng**, nay đã có số chi tiết.
+* **Hàng 8:** điều kiện doanh nghiệp khởi nghiệp công nghệ cao (Điều 11): R&D thuộc danh mục; tăng trưởng doanh thu bình quân ≥20%/năm trong 2 năm liên tiếp (doanh nghiệp ≥3 năm tuổi) **hoặc** công nghệ/sản phẩm sẵn sàng chuyển giao hoặc thương mại hoá có kết quả thử nghiệm và phương án khả thi; khả năng mở rộng thị trường. Ủy ban nhân dân cấp tỉnh xác nhận trong 40 ngày; hiệu lực 5 năm; báo cáo hằng năm; kiểm tra sau 12 tháng rồi mỗi 2 năm.
+* **Hàng 9:** Quỹ đầu tư mạo hiểm quốc gia: **được ưu tiên xem xét** đồng đầu tư, đầu tư, bảo lãnh, hỗ trợ kỹ thuật; **NATIF hỗ trợ lãi suất vay (70% lãi suất hợp đồng, tối đa 8%/năm, tối đa 5 năm; công nghệ chiến lược 100%, tối đa 10%)**, không phải cho vay trực tiếp như SI ghi.
+* **Thêm hàng mới:** tiêu chí doanh nghiệp công nghệ cao nhóm 1 và 2 (Điều 14, 15) với các bậc vốn VND 100 tỷ và 6.000 tỷ (tỷ lệ R&D 0,5%/1%/2%; lao động R&D 1%/2,5%/5%); hỗ trợ hạ tầng công nghệ (gồm hạ tầng tính toán và dữ liệu; Điều 3, 4(6), 5(6)); ưu tiên dự án khu công nghệ cao có suất vốn đầu tư trên diện tích cao hơn trung bình (Điều 26).
+* **Thông tư thi hành cần đọc:** 38/2026/TT-BKHCN, 40/2026/TT-BKHCN, 42/2026/TT-BKHCN, 48/2026/TT-BKHCN, 49/2026/TT-BKHCN; Nghị định 20/2026/NĐ-CP (chính sách khởi nghiệp), 264/2025/NĐ-CP (quỹ đầu tư mạo hiểm quốc gia).
+* **Chưa có:** Quyết định 21/2026/QĐ-TTg (danh mục công nghệ chiến lược: mục "nền tảng điện toán đám mây"). Anh/chị gửi văn bản này tương tự (từ Thư viện Pháp luật) thì tôi đối chiếu tiếp. Văn bản trên Thư viện Pháp luật là cơ sở dữ liệu thương mại, không phải Công báo.

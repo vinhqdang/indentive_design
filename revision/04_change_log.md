@@ -108,3 +108,15 @@ Các việc chưa làm: viability benchmark (cần số liệu giá thuê GPU, g
 | Thailand (nguồn thứ cấp): 8.2.4 cần 2 MW và hai trung tâm dữ liệu ISO 27001; tồn tại 8.2.1 và 8.2.2 | Sửa Bảng 3 và Bảng 6; đánh VERIFY cho đến khi đọc thông báo BOI gốc |
 
 Hình 1 và Bảng 3 đến 7 đã vẽ lại. Tiêu đề kiểu Malaysia ở Bảng 4: "Two parallel tracks". Các tham chiếu Malaysia nay là MDEC (2025), MIDA (2024, 2026) và MITI (2024).
+
+## Vòng 5: đọc toàn văn BOI (Thái Lan) và Nghị định 260/2026 (Việt Nam)
+
+| Phát hiện | Hệ quả |
+|---|---|
+| Thailand có **hoạt động 8.2.2 (dịch vụ đám mây) không có vốn tối thiểu**, chỉ cần đặt tại hai trung tâm dữ liệu đạt ISO 27001 và có chứng chỉ ISO 27001 và 20000-1. Thuê GPU thuộc 8.2.4.1 (≥5.000 triệu baht) | Bài viết lại: cổng vốn nằm ở trung tâm dữ liệu (≥2 MW), thuê GPU (≥5 tỷ baht); cloud tổng quát có đường vào vốn thấp, bị sàng lọc bằng chi phí cố định (chứng nhận). Cùng cấu trúc với Malaysia Digital |
+| Cả hai bậc trung tâm dữ liệu Thái (8.2.1.1 và 8.2.1.2) đều cần ≥2 MW | Doanh nghiệp giả định C (1 MW) **không đủ điều kiện** ở Thái Lan; khoảng cách bậc 1,7 đến 2,8 |
+| Ưu đãi phần mềm Thái **không phải "không giới hạn"**: trần bằng 100% chi phí đủ điều kiện (A2) | Sửa §4.1 |
+| Biện pháp "competitiveness enhancement" là **xuyên ngành** và tính theo tỷ lệ doanh thu (1% hoặc 200 triệu baht, lấy mức thấp), không phải 200 triệu baht cố định | Đảo hàng E5: không còn là bằng chứng "thiên lệch theo quy mô"; H3 nay là E (khuôn mẫu chung đã xác nhận) |
+| Nghị định 260/2026: danh sách công nghệ, hỗ trợ trực tiếp rộng (cấp kinh phí tới 100%, miễn phí, hỗ trợ lãi suất, ưu tiên quỹ mạo hiểm); điều kiện công nhận có bậc vốn (VND 100 tỷ, 6.000 tỷ) làm tỷ lệ R&D yêu cầu giảm dần theo quy mô; hạ tầng tính toán nằm trong "hạ tầng công nghệ" | Thêm E12; sửa Bảng 3 (hình thức hỗ trợ của Vietnam); hàng "công cụ nhắm vào compute" của Vietnam nêu công cụ gần nhất |
+| NATIF hỗ trợ lãi suất, không cho vay trực tiếp | Sửa §4.2 |
+| Thông tin trích dẫn: Guide 2026 thay Guide 2025; thêm Announcement Sor. 9/2568 | Cập nhật danh mục tài liệu |
