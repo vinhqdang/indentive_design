@@ -14,6 +14,5 @@ The manuscript is anonymised for double-blind review, and the title page and Sup
 
 Yours sincerely,
 
-Quang-Vinh Dang
-British University Vietnam
-vinh.dq4@buv.edu.vn
+Quang-Vinh Dang (corresponding author), British University Vietnam, vinh.dq4@buv.edu.vn
+Thi-Hong-Hanh Nguyen, Banking Academy of Vietnam, hanh.nth1@hvnh.edu.vn

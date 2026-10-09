@@ -21,7 +21,7 @@ Nguồn yêu cầu: Instructions for Authors của tạp chí (trang tandfonline
 ## Chỗ giữ chỗ còn lại trong bản nộp (tìm "AUTHORS TO COMPLETE")
 
 1. Tài trợ và xung đột lợi ích đã điền ("không có") theo xác nhận của tác giả. Lời cảm ơn bỏ trống vì bản nộp là bản mù; thêm khi chấp nhận bài nếu cần.
-2. Tên đồng tác giả, nếu có (trang tựa đề). Trang tựa đề tạm điền Quang-Vinh Dang theo thông tin nghiên cứu; đổi nếu bài này dùng thông tin khác.
+2. Tác giả đã điền: Quang-Vinh Dang (liên hệ) và Thi-Hong-Hanh Nguyen. Thiếu ORCID của tác giả thứ hai (không bắt buộc).
 3. Xác nhận câu tuyên bố AI mô tả đủ mọi cách đã dùng AI (xem bên dưới).
 
 Đã xử lý: lý do loại Indonesia (mục 3.1, dựa trên nguồn thứ cấp), nguồn 12 kW (NVIDIA, n.d.), người mã hoá thứ hai (AI mù, Table S6).

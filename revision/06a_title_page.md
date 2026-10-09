@@ -11,7 +11,7 @@ title: "Title page (not anonymised; upload separately from the blind manuscript)
 **Authors**
 
 1. Quang-Vinh Dang, British University Vietnam, Hung Yen, Vietnam. ORCID 0000-0002-3877-8024. Corresponding author: vinh.dq4@buv.edu.vn
-2. [AUTHORS TO COMPLETE: further authors, with full name, affiliation where the research was conducted, ORCID and email. Remove this line if there are none.]
+2. Thi-Hong-Hanh Nguyen, Banking Academy of Vietnam, Hanoi, Vietnam. hanh.nth1@hvnh.edu.vn. [ORCID optional: add if available.]
 
 **Keywords:** AI industrial policy; investment incentives; incentive design; middle-income trap; middle-technology trap; Southeast Asia
 
