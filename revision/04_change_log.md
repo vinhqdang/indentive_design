@@ -77,3 +77,22 @@ Cohen (1960); Collier (2011); Krippendorff (2018, 4th ed.); Mahoney (2012); Seaw
 | Hai tài liệu public finance: Bloom, Griffith & Van Reenen (2002); Zee, Stotsky & Ley (2002) | §2.3 | Nối với văn liệu về hiệu quả ưu đãi và thiết kế ưu đãi cho nước đang phát triển. Zee et al.: đã xác nhận tiêu đề, tập, trang; tên tác giả suy từ một trích dẫn gián tiếp, cần kiểm lại |
 | Bảng 6: thang bậc minh hoạ cho khuyến nghị chính sách, tính từ benchmark | §6 | R1 phê bình khuyến nghị quá chung; nay có độ lớn từng bậc và loại công cụ phù hợp |
 | Đánh số lại bảng theo thứ tự xuất hiện (Bảng 1 nguồn, Bảng 2 rubric) | toàn bài | Bảng 2 trước đây xuất hiện trước Bảng 1 |
+
+## Vòng 3: viết lại phần kết quả sau khi "reviewer giả" đọc bản mới
+
+Reviewer giả (một agent đóng vai referee của Innovation and Development) tìm ra các lỗi sau; mọi mục đã được xử lý trong bản mới:
+
+| Lỗi tìm ra | Cách xử lý |
+|---|---|
+| Khẳng định "không nước nào có công cụ dưới quy mô facility" sai với Malaysia (bậc DESAC), và yếu với Vietnam, Philippines (không có ngưỡng vốn, tức là mở theo điều kiện chung) | Tách ba cách hiểu (nhắm vào / dùng được / có bậc dưới); chỉ khẳng định cách (i) "không có công cụ nhắm vào"; thêm phép thử doanh nghiệp giả định (Bảng 6) cho cách (ii) |
+| Chỉ đổi riêng ngưỡng Thailand ra MW; "hai đến ba bậc độ lớn" tính sai (đúng là 2,5 đến 3,0 cho Thailand) | Bảng 5: đổi mọi ngưỡng ra công suất tương đương; định nghĩa "rung distance"; viết lại các câu về bậc độ lớn |
+| Bảng bằng chứng chấm sai: H1 "E" cho các quan sát nằm ngoài P1a–c; H3 không bao giờ bị U; E2 và E7 mâu thuẫn nhau cho Vietnam; thiếu các hàng bất lợi cho giả thuyết (Malaysia DESAC, Philippines không ngưỡng, Vietnam không quy tắc vốn) | Định nghĩa lại dự đoán P1a–P3c (thêm P1d, P2c, P3c); thêm giả định A1 về tính khả thi; chấm lại theo từng nước; thêm E2, E4, E8; trọng số theo từng cặp giả thuyết; kiểm tra độ nhạy theo cả hai chiều |
+| Bảng 3 không khớp SI (chỗ "chấp nhận cho doanh nghiệp nhỏ"); "ngưỡng thấp nhất" sai; "rào cản" ở Malaysia mâu thuẫn "đường liên tục"; "ranh giới" ở Vietnam mâu thuẫn định nghĩa của bài | Codebook chỉ tính điều khoản tường minh, SI hàng 1, 2, 14, 18 cần mã hoá lại; sửa các câu; Vietnam "không có chốt vốn trong công cụ đã mã hoá, xếp phần cứng thấp hơn" |
+| Phần cứng chưa mã hoá ở ba nước; tầng (ii) và (iii) không tách được | Gộp mã (ii)+(iii); bỏ so sánh phần cứng giữa các nước; ghi vào hạn chế |
+| Một số câu quá tay: "benchmarks cho thấy…", "template cho compute", "chi phí thấp" | Sửa hoặc bỏ; chương chính sách đổi thành "kiểm tra trước, thí điểm sau" |
+| Văn bản vẫn có các câu trả lời reviewer cũ, "not X but Y" | Viết lại; các ghi chú PENDING/VERIFY phải xoá trước khi nộp |
+| Tiêu đề | Đổi thành "Where the Screen Falls: Incentive Architecture and Domestic Firms' Entry into the AI Stack in Southeast Asia" |
+
+Nhãn giả thuyết đã đổi so với bản gửi RDE: H1 nay là chi phí, H2 là thiết kế thiên về quy mô, H3 là thói quen hành chính.
+
+Các việc chưa làm: viability benchmark (cần số liệu giá thuê GPU, giá colocation); bảng mã hoá cho đối chứng (non-AI); dữ liệu từng dự án BOI; cập nhật Supporting Information.
