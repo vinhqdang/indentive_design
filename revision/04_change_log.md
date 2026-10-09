@@ -156,3 +156,13 @@ Bổ sung vòng 6: đọc toàn văn IRR của RA 12066 (ký 17/2/2025, hiệu l
 | Khoảng cách bậc tính từ đội máy khả thi chỉ 0,2 đến 1,0 bậc ở cổng GPU của Thái Lan; ngưỡng 2 MW của Thái và 0,85 MW của Malaysia nằm trong vùng khả thi | Bảng 3 có thêm cột; tóm tắt, mục 5.1, kết luận sửa theo; mệnh đề M (hai bậc trở lên) chỉ đúng nếu giá gần 3,85 USD |
 | Nguồn giá là blog nhà cung cấp, danh sách đại lý, chỉ số SemiAnalysis qua bài của Spendark | Ghi rõ là chỉ báo; cần dữ liệu giá thật |
 | Tuyên bố AI tạo sinh điền theo lời tác giả | Cần tác giả xác nhận phạm vi |
+
+## Vòng 9: Indonesia, 12 kW, người mã hoá thứ hai
+
+| Thay đổi | Ghi chú |
+|---|---|
+| Lý do loại Indonesia (mục 3.1): ưu đãi chung (tax holiday, super deduction, miễn thuế nhập khẩu), không nêu AI hay trung tâm dữ liệu; lộ trình AI quốc gia và quy định đạo đức AI còn chờ ban hành giữa 2026; tháng 9/2025 quan chức bộ Truyền thông còn kêu gọi ưu đãi thuế cho trung tâm dữ liệu | Dựa trên nguồn thứ cấp (Tech For Good Institute 10/7/2026; W.Media 4/9/2025); là lý do tìm lại sau khi chọn ca; chưa kiểm văn bản gốc |
+| 12 kW: hướng dẫn DGX H100 của NVIDIA ghi tối đa 10,2 kW; 12 kW là mức làm tròn lên | Thay chỗ giữ chỗ CITATION |
+| Hai agent AI mã mù 29 dòng từ văn bản gốc | Thống nhất 69% (lớp, kappa 0,60), 83% (cách chuyển giao, 0,73), 76% (ưu đãi cho doanh nghiệp nhỏ/mới, 0,57); 28/29 ngưỡng khớp; bảng bất đồng ở Table S6; mã của hai bên ở `09a_second_coder_codes.csv` |
+| Sau phân xử: 14 dòng cross-cutting (2, 3, 5, 6, 7, 8, 9, 14, 18, 19, 20, 24, 25, 26); dòng 4 là (ii), dòng 22 là (iii); dòng 25 có miễn tiền thuê đất (Điều 12(3)); dòng 18 có biểu mẫu đơn giản cho doanh nghiệp siêu nhỏ và nhỏ trong IRR | Table S1 sửa theo; bản thảo ghi "fourteen" |
+| Tuyên bố AI cập nhật: polish văn phong và người mã hoá thứ hai mù | Tác giả phải xác nhận |

@@ -6,7 +6,7 @@ Nguồn yêu cầu: Instructions for Authors của tạp chí (trang tandfonline
 
 | Yêu cầu | Tình trạng |
 |---|---|
-| Tối đa 8.000 từ, gồm bảng, tài liệu tham khảo, chú thích hình | **Đạt**: 7.882 từ (đếm trong docx, gồm chỗ giữ chỗ); bản cũ dài 17.800 từ nên đã rút gọn, chi tiết chuyển sang Supporting Information |
+| Tối đa 8.000 từ, gồm bảng, tài liệu tham khảo, chú thích hình | **Đạt**: 7.891 từ (đếm trong docx, gồm chỗ giữ chỗ); bản cũ dài 17.800 từ nên đã rút gọn, chi tiết chuyển sang Supporting Information |
 | Phản biện kín hai chiều (double blind) | Bản `06_submission_manuscript` không có tên tác giả; trang tựa đề tách riêng ở `06a_title_page`. Cần kiểm lại thuộc tính file docx (File, Info) xoá tên tác giả trước khi tải lên |
 | Tóm tắt không cấu trúc, 200 từ | 196 từ |
 | 5 đến 6 từ khoá | 6 từ khoá |
@@ -16,15 +16,15 @@ Nguồn yêu cầu: Instructions for Authors của tạp chí (trang tandfonline
 | Chính tả Anh hoặc Mỹ, nhất quán | Anh |
 | Số liệu ghi theo đơn vị SI | Dùng MW, kW |
 | Vai trò CRediT, tài trợ, tuyên bố xung đột lợi ích | Điền ở cổng nộp và trang tựa đề |
-| **Tuyên bố sử dụng AI tạo sinh** | **Bắt buộc.** Đã điền theo lời bạn (AI chỉ polish văn phong, tác giả duyệt và chịu trách nhiệm). Cần tác giả xác nhận câu này mô tả đủ mọi cách đã dùng AI, và ghi tên công cụ nếu tạp chí hỏi |
+| **Tuyên bố sử dụng AI tạo sinh** | **Bắt buộc.** Đã điền: AI polish văn phong và làm người mã hoá thứ hai mù; tác giả duyệt và chịu trách nhiệm. Cần tác giả xác nhận câu này đủ, và ghi tên công cụ nếu tạp chí hỏi |
 
-## Chỗ giữ chỗ còn lại trong bản nộp (tìm "AUTHORS TO COMPLETE" và "CITATION")
+## Chỗ giữ chỗ còn lại trong bản nộp (tìm "AUTHORS TO COMPLETE")
 
-1. **Lý do loại Indonesia** (mục 3.1). Người đọc sẽ hỏi.
-2. **Kết quả người mã hoá thứ hai** (mục 3.2): phần trăm đồng thuận, kappa Cohen theo từng chiều, các bất đồng đã giải quyết. Dùng `03a_second_coder_blind_sheet.csv` (29 dòng).
-3. **Nguồn cho 12 kW của một máy chủ 8 GPU** (mục 3.2): thêm datasheet của hãng.
-4. Lời cảm ơn, tuyên bố xung đột lợi ích, tài trợ (cuối bản thảo, và trang tựa đề).
-5. Tên đồng tác giả, nếu có (trang tựa đề). Trang tựa đề hiện điền sẵn Quang-Vinh Dang theo thông tin nghiên cứu của bạn; đổi nếu bài này dùng thông tin khác.
+1. Lời cảm ơn, tuyên bố xung đột lợi ích, tài trợ (cuối bản thảo và trang tựa đề). Chỉ tác giả biết sự thật.
+2. Tên đồng tác giả, nếu có (trang tựa đề). Trang tựa đề tạm điền Quang-Vinh Dang theo thông tin nghiên cứu; đổi nếu bài này dùng thông tin khác.
+3. Xác nhận câu tuyên bố AI mô tả đủ mọi cách đã dùng AI (xem bên dưới).
+
+Đã xử lý: lý do loại Indonesia (mục 3.1, dựa trên nguồn thứ cấp), nguồn 12 kW (NVIDIA, n.d.), người mã hoá thứ hai (AI mù, Table S6).
 
 ## Những điều bản nộp nói thẳng là chưa làm (mục 3.2, 5.1, 7)
 
@@ -36,8 +36,8 @@ Nguồn yêu cầu: Instructions for Authors của tạp chí (trang tandfonline
 
 ## Việc nên làm trước khi bấm nộp
 
-1. Người thứ hai mã 29 dòng, điền kết quả vào mục 3.2.
-2. Điền các chỗ giữ chỗ ở trên; đọc lại câu "one author coded" ở mục 3.2 và mục 7 cho khớp thực tế.
+1. Nếu có người thật làm được: một người mã hoá 29 dòng từ `03a_second_coder_blind_sheet.csv`, bắt đầu từ các dòng bất đồng ở Table S6; rồi thay đoạn "AI second coder" ở mục 3.2 bằng kết quả này.
+2. Đọc lại lý do loại Indonesia ở mục 3.1: đây là lý do tìm lại sau khi đã chọn ca, chưa kiểm văn bản gốc của Indonesia.
 3. Đọc bản gốc tiếng Thái của Sor. 9/2568 và hỏi BOI về 8.2.2 hay 8.2.4.1 cho nhà cung cấp GPU nhỏ (một email là đủ).
 4. Nếu có thời gian: lấy dữ liệu giá thật của nhà cung cấp GPU nhỏ trong khu vực (báo giá, hợp đồng), vì A1 hiện chỉ đúng có điều kiện.
 5. Bản dài `02_revised_manuscript.md` chưa cập nhật theo kết quả A1; dùng `06_submission_manuscript` làm bản chính.
