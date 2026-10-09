@@ -71,8 +71,25 @@ Mục tiêu: kiểm tra xem một nhà cung cấp colocation hoặc bán lại c
 
 Các ví dụ trong ngoặc chỉ để gợi ý loại công cụ cần tìm. Tên và số hiệu thực phải do người mã hoá tìm trong nguồn, không dùng các ví dụ này làm dữ liệu.
 
+## F. Kiểm tra văn bản có thẩm quyền và còn hiệu lực (R2-6)
+
+Với **mỗi** nguồn ở Bảng 2, điền:
+
+| Nguồn | Phiên bản có hiệu lực vào ngày mã hoá | Có sửa đổi, hợp nhất, bãi bỏ trong danh mục công bố của cơ quan ban hành không? (liệt kê) | Có văn bản hướng dẫn, thông tư thi hành làm đổi cách hiểu điều khoản đã mã hoá không? | Điều khoản đã mã hoá có bị ảnh hưởng không? | Ngày kiểm tra / người kiểm tra |
+|---|---|---|---|---|---|
+| BOI Ann. 8/2565, 9/2565, 10/2565 và Guide 2025 | | | | | |
+| Decree 260/2026/ND-CP | | | | | |
+| Decision 21/2026/QD-TTg (thay Decision 1131/QD-TTg năm 2025) | | | | | |
+| MDEC Guidelines 2024 | | | | | |
+| MIDA DESAC Guidelines 2022 | | | | | |
+| RA 12066 | | | | | |
+| FIRB Advisory 001-2025 và IRR | | | | | |
+
+Quy tắc: kiểm tra trên trang công bố chính thức của cơ quan ban hành (không dùng tin báo chí hay tóm tắt của hãng luật). Đồng thời ghi **quy tắc chọn công cụ vào mẫu** cho từng nước: danh sách chương trình của cơ quan nào đã đọc, và tiêu chí nhận một công cụ vào mẫu (đang có hiệu lực trong giai đoạn nghiên cứu; nêu AI, cloud, trung tâm dữ liệu hoặc hoạt động số là hoạt động đủ điều kiện hoặc ưu tiên, hoặc đặt điều kiện cho chương trình đăng ký hoạt động đó).
+
 ## E. Việc cần quyết định của tác giả (không thể điền thay)
 
 1. Lý do loại Indonesia (mục 3.1).
 2. Tên người mã hoá thứ hai và thời gian.
 3. Xác nhận rằng bài vẫn chưa nộp ở tạp chí khác và rằng tác giả đã đồng ý nộp cho tạp chí mới.
+4. Xác nhận cách các nguồn (Ke 2024, Zheng 2024, Bahar et al. 2026, Bianchi et al. 2024) đo hoặc phân loại trap, để điền các ô VERIFY ở §2.1 và §3.1 (R2-2, R2-5).

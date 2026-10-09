@@ -2,7 +2,7 @@
 
 Bài: *Incentive Design, Ownership, and the Risk of an AI-Era Middle-Technology Trap in Southeast Asia*
 
-Nguồn: thư quyết định của Editor + Reviewer 1 + Reviewer 3 (Reviewer 2 chỉ có file đính kèm, **chưa được cung cấp**), đối chiếu với bản thảo `Manuscript_RDE_anonymised.docx` và `Supporting_Information_Coding_Matrix.docx`.
+Nguồn: thư quyết định của Editor + báo cáo của Reviewer 1, Reviewer 2 (file PDF đính kèm, đã nhận) và Reviewer 3, đối chiếu với bản thảo `Manuscript_RDE_anonymised.docx` và `Supporting_Information_Coding_Matrix.docx`.
 
 Quy ước: các cột được giữ độc lập (mức độ nghiêm trọng, phạm vi công việc, ai làm được). Không có cột xếp hạng ưu tiên hay ước lượng thời gian; thứ tự là thứ tự nguồn. Cột "Làm được ngay?" chỉ cho biết việc đó có thể làm bằng cách viết lại văn bản hay cần dữ liệu/người thật.
 
@@ -52,11 +52,20 @@ Editor tóm gọn 5 lý do reject; tất cả đều xuất hiện trong báo c�
 | R1-20 | Kết luận chỉ lặp lại; lui về hedging "could emerge"; "competing interpretation" không được giải quyết | §5.3, §8 | Major | mục | Đúng: bản thân bài thừa nhận bằng chứng không phân xử được | Đóng khung lại: bài làm gì chắc chắn (bản đồ công cụ + khoảng trống dưới quy mô facility), bài không làm gì; nêu bằng chứng nào sẽ phân xử giữa "rational specialisation" và "trap" | Có |
 | R1-21 | Limitations chỉ liệt kê, không bàn ảnh hưởng đến tính hợp lệ/khái quát hoá; thiếu IRR bị chôn trong SI | §7 | Minor | mục | Đúng | Viết lại §7 theo tính hợp lệ nội tại, ngoại suy, đo lường; đưa IRR lên đầu | Có (phần IRR phụ thuộc R1-6) |
 
-### Reviewer 2
+### Reviewer 2 (báo cáo đính kèm, tháng 10/2026)
 
-| ID | Trạng thái |
-|---|---|
-| R2-* | **NEEDS_INPUT.** Chỉ có "Please see attachment". Cần file báo cáo của R2 (tải từ hệ thống ScholarOne/Wiley). Suy ra từ thư Editor: R2 có thể liên quan tới (a) quan hệ MIT–MTT, (b) đóng góp so với văn liệu, (c) chọn quốc gia, (d) độ tin cậy mã hoá, (e) minh bạch BPT. Đây chỉ là suy đoán từ phần tóm tắt của Editor, **không phải nội dung của R2**. Roadmap sẽ cập nhật sau khi có file. |
+Tóm tắt của R2: cách tiếp cận "có thể hữu ích" nhưng có lo ngại về khung và diễn giải. R2 không đề nghị loại bài trong báo cáo; quyết định reject là của Editor.
+
+| ID | Nhận xét của R2 (tóm tắt) | Mục trong bài | Phạm vi | Kiểm tra đối chiếu | Hướng sửa | Làm được ngay? |
+|---|---|---|---|---|---|---|
+| R2-1 | Bài mở bằng middle-income trap nhưng tập trung vào middle-technology trap, không giải thích quan hệ. Ví dụ Nhật (đã là nước thu nhập cao) cho thấy MTT không giới hạn ở nước thu nhập trung bình. Câu hỏi cần đặt: MTT cản chuyển từ trung bình lên cao ở bốn nước thế nào; là cơ chế góp vào MIT hay vấn đề riêng | §2.1, §1 | mục | Đúng, trùng R1-2 và nhận xét của Editor. Bản gốc có tách "hai dòng" MTT nhưng không nói quan hệ | Nêu vị trí rõ: MTT là cơ chế có thể góp vào MIT qua năng suất; không đồng nghĩa; Nhật liên quan vì cơ chế (thiết kế ưu đãi) tồn tại không cần thu nhập thấp | Có |
+| R2-2 | Cần giải thích định nghĩa và đo lường MTT theo văn liệu; làm rõ phân tích pháp lý đo rủi ro hay nhận diện đặc điểm thiết kế có thể góp vào | §2.1 | mục | Đúng: bản gốc không định nghĩa vận hành; cụm "risk" mơ hồ | Nêu cách văn liệu đo (kết quả); khẳng định bài nhận diện đặc điểm thiết kế, không đo trap, không ước lượng xác suất; bỏ chữ "risk" | Có; cần kiểm cách Ke, Zheng, Bahar đo bằng toàn văn |
+| R2-3 | Chuyển đoạn trang 2 giữa đoạn 1 và đoạn 2 cần mạnh hơn: thêm đoạn nói vì sao AI quan trọng với nâng cấp công nghệ và lên thu nhập cao | §1 | câu/mục | Đúng | Thêm cầu nối | Có |
+| R2-4 | Vì sao chọn 4 nước; khái quát hoá đến Đông Nam Á đến đâu | §3.1, §7 | mục | Trùng R1-4 | Như R1-4 và thêm đoạn khái quát hoá | Một phần (Indonesia chờ tác giả) |
+| R2-5 | Ở §3.1 "Thailand and Malaysia are both classified as trapped" chắc là middle-income trap; cần nêu nhất quán đang nói khái niệm nào và tiêu chí phân loại | §3.1, Bảng 3 | mục | Đúng: bản gốc dùng "trapped" không chỉ rõ; tiêu chí nằm ở Bianchi et al. nhưng không được nêu | Nêu "middle-income trap" và tiêu chí (duration, quỹ đạo độ phức tạp xuất khẩu); tách khỏi MTT của Ke | Có; cần kiểm tiêu chí số trong Bianchi et al. |
+| R2-6 | Làm sao xác lập rằng văn bản được chọn là liên quan và có thẩm quyền; cách kiểm tra sửa đổi, văn bản thay thế và quy định khác làm đổi cách hiểu | §3.2, Bảng 2 | dữ liệu mới | Đúng. SI đã có một ví dụ (Decision 21/2026 thay Decision 1131/QĐ-TTg) nhưng không có quy trình | Viết quy tắc nhận công cụ vào mẫu và quy trình kiểm tra; thực hiện kiểm tra thật cho từng nguồn | Một phần: mô tả được ngay; kiểm tra thật cần tác giả |
+
+Nhận xét của R2 trùng với R1 ở ba điểm (khái niệm, chọn ca, quy trình mã hoá) và là báo cáo ngắn, ít yêu cầu về phương pháp hơn R1.
 
 ### Reviewer 3
 
@@ -127,7 +136,7 @@ Kết quả: xem `02_revised_manuscript.md` / `.docx`, `03_data_tasks_pack.md`, 
 
 ## F. Việc tôi **không** thể làm thay và việc cần tác giả
 
-1. File báo cáo Reviewer 2.
+1. (Đã có) File báo cáo Reviewer 2.
 2. Người mã hoá độc lập thứ hai (IRR) — tôi chỉ chuẩn bị tài liệu, không tạo số liệu.
 3. Xác nhận lại các con số/văn bản pháp lý gốc (14/20 dòng); tôi có thể hỗ trợ tìm nhưng không thể thay xác nhận của tác giả đối với văn bản 2026.
 4. Mã hoá thêm các công cụ chung (SME/startup/R&D) nếu chọn phương án trả lời R3-5.
