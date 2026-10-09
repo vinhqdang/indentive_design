@@ -134,3 +134,14 @@ Hình 1 và Bảng 3 đến 7 đã vẽ lại. Tiêu đề kiểu Malaysia ở B
 | Tài liệu tham khảo: thêm Memorandum Order 47 (2026) | |
 
 Bổ sung vòng 6: đọc toàn văn IRR của RA 12066 (ký 17/2/2025, hiệu lực 20/2/2025). Không có vốn tối thiểu để đăng ký; ngưỡng PHP 15 tỷ và PHP 50 tỷ được lặp lại trong IRR; hồ sơ gồm báo cáo tài chính và dự báo cho cả kỳ ưu đãi (chi phí cố định, ghi vào cột tuân thủ). Tài liệu tham khảo đổi từ FIRB Advisory sang IRR (Bộ Tài chính và Bộ Công Thương, 2025). Bảng 1, §4.4, Bảng 3, 6 và E7 đã bỏ dấu PENDING về IRR; còn lại hướng dẫn điều kiện của SIPP.
+
+## Vòng 7: viết lại Supporting Information
+
+| Thay đổi | Ghi chú |
+|---|---|
+| SI mới `05_supporting_information.docx` (29 dòng, bố cục ngang theo từng nước) | Bỏ mọi câu "earlier draft"; sửa "five dimensions" thành năm chiều theo Appendix A; thêm cột nguồn và ngày kiểm |
+| Dòng 5 (TISO), 6 (smart distribution), 2 (R&D) sửa theo BOI Guide 2026 | Dòng 5 có ngưỡng THB 10 triệu; dòng 6 có vốn tối thiểu THB 1.000 triệu; dòng 2 là Activity 10.2 |
+| Dòng 1, 2, 14, 18: accommodation mã lại theo codebook | Ngưỡng thấp ghi ở cột ngưỡng, không ghi là accommodation |
+| Dòng 12 mã lớp (i); dòng 4 và 15 đến 17 mã (ii)+(iii); dòng 3 cross-cutting | Khớp với bản thảo |
+| Thêm dòng 21 đến 29: Thái 8.2.2 và 8.2.1; Malaysia danh mục trung tâm dữ liệu; Việt Nam Điều 3 đến 5 (hạ tầng công nghệ), Điều 16, Điều 14 đến 15; Philippines SIPP 2026 (phần mềm, AI, trung tâm dữ liệu) | Bản thảo: 29 công cụ, tám dòng cross-cutting (3, 5, 6, 18, 19, 20, 25, 26) |
+| Phiếu mù CSV mở rộng 20 thành 29 dòng; nguồn cập nhật sang văn bản 2026 | |

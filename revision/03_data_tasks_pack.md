@@ -165,3 +165,10 @@ Các điều chỉnh cho SI (Vietnam, từ toàn văn Nghị định 260/2026/N�
 | AI camera biên, nền tảng bản sao số (Việt Nam) | Là sản phẩm ứng dụng: mã lại sang lớp (i) |
 
 **Việc cho đồng tác giả:** đọc song song Điều 16 Nghị định 260 trong bản gazette chính thức (không chỉ Thư viện Pháp luật), và kiểm tra cách áp dụng tiêu chí "80% doanh thu từ sản phẩm chiến lược" cho doanh nghiệp chưa có doanh thu.
+
+## J. Cập nhật SI (sau vòng 6): dùng bản này thay cho mục A và B ở trên
+
+* SI mới là `05_supporting_information.docx` (nguồn `05_supporting_information.md`), 29 dòng, đã kiểm văn bản gốc ngày 9/10/2026. Mục B (14 dòng chưa xác minh) không còn đúng: mọi dòng đã đối chiếu, nhưng chỉ do một người, và các văn bản Việt Nam đọc qua Thư viện Pháp luật.
+* **Phiếu mã hoá mù** `03a_second_coder_blind_sheet.csv` nay có **29 dòng** (thêm dòng 21 đến 29). Người mã hoá thứ hai mã cả 29 dòng trên 5 chiều theo Appendix A, không xem SI trước.
+* Sửa so với SI cũ: dòng 5 (TISO) có ngưỡng chi bán hàng và quản lý tối thiểu THB 10 triệu, không phải "không nêu"; dòng 6 (trung tâm phân phối thông minh) có điều kiện vốn tối thiểu THB 1.000 triệu ngoài quy tắc nhân sự 20%; dòng 2 là Activity 10.2 (R&D, bậc A1) với ngưỡng chi lương R&D THB 1,5 triệu hoặc vốn THB 1 triệu; dòng 3 là cross-cutting; dòng 4 mã (ii)+(iii); dòng 15 và 16 mô tả đúng DESAC (sàn vốn đã nộp áp dụng cả hai bậc; RM1 tỷ là điều kiện năm 6 đến 10); dòng 12 mã lớp (i); dòng 20 có điều kiện PHP 50 tỷ hoặc 10.000 việc làm.
+* Chuyển cho người mã hoá thứ hai: bản `.csv`, Appendix A (cuối bản thảo) và các link nguồn ở mục G, H, I.
