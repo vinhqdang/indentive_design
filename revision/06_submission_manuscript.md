@@ -228,17 +228,13 @@ First, legal eligibility is not realised access: firms may be unable to use an e
 
 This paper asked where four Southeast Asian incentive systems screen entrants to the AI industry. All four make application development accessible on the stated thresholds, and Vietnam adds a startup track with direct equity access. Above that layer they use four architectures. Thailand gates data centres by capacity and GPU hosting by capital, 1.7 to 3.0 orders of magnitude above one server but at most one order above the fleet a benchmark finds viable at central prices, while cloud services carry certification in place of capital. Malaysia runs a low-capital digital track covering cloud beside a data-centre track starting at 0.85 MW. Vietnam lists strategic technologies without ranking them and states no capital rule. The Philippines lists activities by tier and applies one firm-scale boundary to all. No instrument we coded is aimed at compute provision below facility scale. Cost largely explains Thailand's gate, but not why Vietnam and the Philippines need no capital gate, why Malaysia can run a low-capital cloud track or why Thailand's research tier presupposes sales. The evidence concerns eligibility, not access, and does not show that any of the four is in a middle-technology trap. The next steps are to measure the prices and utilisation that small regional providers actually obtain, code the general schemes, and link rules to firm-level take-up.
 
-## Acknowledgments
-
-[AUTHORS TO COMPLETE.]
-
 ## Declaration of interest statement
 
-[AUTHORS TO COMPLETE: the authors report no conflict of interest, or state any.]
+The authors report there are no competing interests to declare.
 
 ## Funding
 
-[AUTHORS TO COMPLETE: funding details, or "No funding was obtained for the reported work."]
+No funding was obtained for the reported work.
 
 ## Declaration of generative AI use
 

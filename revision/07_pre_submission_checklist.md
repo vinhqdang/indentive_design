@@ -6,7 +6,7 @@ Nguồn yêu cầu: Instructions for Authors của tạp chí (trang tandfonline
 
 | Yêu cầu | Tình trạng |
 |---|---|
-| Tối đa 8.000 từ, gồm bảng, tài liệu tham khảo, chú thích hình | **Đạt**: 7.891 từ (đếm trong docx, gồm chỗ giữ chỗ); bản cũ dài 17.800 từ nên đã rút gọn, chi tiết chuyển sang Supporting Information |
+| Tối đa 8.000 từ, gồm bảng, tài liệu tham khảo, chú thích hình | **Đạt**: 7.878 từ (đếm trong docx, gồm chỗ giữ chỗ); bản cũ dài 17.800 từ nên đã rút gọn, chi tiết chuyển sang Supporting Information |
 | Phản biện kín hai chiều (double blind) | Bản `06_submission_manuscript` không có tên tác giả; trang tựa đề tách riêng ở `06a_title_page`. Cần kiểm lại thuộc tính file docx (File, Info) xoá tên tác giả trước khi tải lên |
 | Tóm tắt không cấu trúc, 200 từ | 196 từ |
 | 5 đến 6 từ khoá | 6 từ khoá |
@@ -20,7 +20,7 @@ Nguồn yêu cầu: Instructions for Authors của tạp chí (trang tandfonline
 
 ## Chỗ giữ chỗ còn lại trong bản nộp (tìm "AUTHORS TO COMPLETE")
 
-1. Lời cảm ơn, tuyên bố xung đột lợi ích, tài trợ (cuối bản thảo và trang tựa đề). Chỉ tác giả biết sự thật.
+1. Tài trợ và xung đột lợi ích đã điền ("không có") theo xác nhận của tác giả. Lời cảm ơn bỏ trống vì bản nộp là bản mù; thêm khi chấp nhận bài nếu cần.
 2. Tên đồng tác giả, nếu có (trang tựa đề). Trang tựa đề tạm điền Quang-Vinh Dang theo thông tin nghiên cứu; đổi nếu bài này dùng thông tin khác.
 3. Xác nhận câu tuyên bố AI mô tả đủ mọi cách đã dùng AI (xem bên dưới).
 

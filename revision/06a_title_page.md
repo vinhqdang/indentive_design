@@ -6,7 +6,7 @@ title: "Title page (not anonymised; upload separately from the blind manuscript)
 
 **Journal:** Innovation and Development (Taylor & Francis); article type: original article
 
-**Word count:** 7,891 words, including abstract, tables, figure caption, references and declarations (limit 8,000).
+**Word count:** 7,878 words, including abstract, tables, figure caption, references and declarations (limit 8,000).
 
 **Authors**
 
@@ -19,9 +19,9 @@ title: "Title page (not anonymised; upload separately from the blind manuscript)
 
 **CRediT roles** (collected in the submission portal) [AUTHORS TO COMPLETE]: conceptualisation; data curation; formal analysis; investigation; methodology; writing, original draft; writing, review and editing; and any others.
 
-**Funding details** [AUTHORS TO COMPLETE]: name each funder and grant number, or state that no funding was obtained for the reported work.
+**Funding details:** No funding was obtained for the reported work.
 
-**Disclosure statement** [AUTHORS TO COMPLETE]: any financial interest or benefit arising from direct applications of the research, or a statement that there is none.
+**Disclosure statement:** The authors report there are no competing interests to declare.
 
 **Declaration of generative AI use:** The authors used generative AI to polish the writing of this manuscript and, as a blind second coder, to check the coding of legal instruments (Section 3.2). The authors reviewed and edited the text and take full responsibility for the content. [AUTHORS TO CONFIRM that this covers every use, including any help with reading sources, searching, coding or drafting, and name the tool if the journal asks.]
 
