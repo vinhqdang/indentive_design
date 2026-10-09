@@ -55,12 +55,13 @@ ax.plot([0.85 * CONSTR, 0.85 * EQUIP], [ym, ym], color=ORANGE, lw=6, solid_capst
 ax.text((0.85 * CONSTR * 0.85 * EQUIP) ** 0.5, ym - 0.12, "Smallest DESAC data-centre\ncategory: 0.85 MW (capital to host)", ha="center", va="top", fontsize=7, color=INK)
 pt("Malaysia", 220, "infra", "DESAC 10-year condition\n$220m cumulative capex")
 # Philippines
-pt("Philippines", 260, "infra", "PHP 15bn firm-scale tier\n$260m, all activity types")
-ax.text(0.011, ypos["Philippines"] + 0.1, "Application layer: no stated minimum",
+pt("Philippines", 260, "infra", "PHP 15bn firm-scale boundary\n$260m, all activities", dx=-0.1, ha="right")
+pt("Philippines", 865, "infra", "PHP 50bn presidential\npackage condition, $865m", dx=0.08, ha="left")
+ax.text(0.011, ypos["Philippines"] + 0.1, "Application layer and data centres: no stated minimum (2026 Plan)",
         fontsize=7, color=MUTED, va="bottom", ha="left")
 # Vietnam
 ax.text(0.011, ypos["Vietnam"] + 0.1,
-        "No capital threshold stated for any AI layer (priority list, Decision 21/2026)",
+        "No capital threshold stated for any AI layer (strategic-technology list, Decision 21/2026)",
         fontsize=7, color=MUTED, va="bottom", ha="left")
 
 ax.set_yticks(list(ypos.values()))

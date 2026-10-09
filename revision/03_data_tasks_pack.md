@@ -145,3 +145,23 @@ Các điều chỉnh cho SI (Vietnam, từ toàn văn Nghị định 260/2026/N�
 * **Thêm hàng mới:** tiêu chí doanh nghiệp công nghệ cao nhóm 1 và 2 (Điều 14, 15) với các bậc vốn VND 100 tỷ và 6.000 tỷ (tỷ lệ R&D 0,5%/1%/2%; lao động R&D 1%/2,5%/5%); hỗ trợ hạ tầng công nghệ (gồm hạ tầng tính toán và dữ liệu; Điều 3, 4(6), 5(6)); ưu tiên dự án khu công nghệ cao có suất vốn đầu tư trên diện tích cao hơn trung bình (Điều 26).
 * **Thông tư thi hành cần đọc:** 38/2026/TT-BKHCN, 40/2026/TT-BKHCN, 42/2026/TT-BKHCN, 48/2026/TT-BKHCN, 49/2026/TT-BKHCN; Nghị định 20/2026/NĐ-CP (chính sách khởi nghiệp), 264/2025/NĐ-CP (quỹ đầu tư mạo hiểm quốc gia).
 * **Chưa có:** Quyết định 21/2026/QĐ-TTg (danh mục công nghệ chiến lược: mục "nền tảng điện toán đám mây"). Anh/chị gửi văn bản này tương tự (từ Thư viện Pháp luật) thì tôi đối chiếu tiếp. Văn bản trên Thư viện Pháp luật là cơ sở dữ liệu thương mại, không phải Công báo.
+
+## I. Kết quả đọc văn bản gốc của Philippines (RA 12066, MO 47 s. 2026) và Quyết định 21/2026 của Việt Nam, 9/10/2026
+
+**Đã đọc toàn văn:** Republic Act 12066 (lawphil.net/statutes/repacts/ra2024/ra_12066_2024.html); Memorandum Order 47 ngày 21/5/2026 phê duyệt SIPP 2026 (lawphil.net/executive/mo/mo2026/mo_47_2026.html); Quyết định 21/2026/QĐ-TTg (bản trên Thư viện Pháp luật).
+
+**Chưa đọc được (việc còn lại):**
+1. Quy định thi hành (IRR) của RA 12066 và FIRB Advisory 001-2025: trang FIRB tải về chỉ trả HTML, không phải PDF. Cần tải bản PDF từ firb.gov.ph và kiểm tra có quy định vốn tối thiểu cho đăng ký thông thường hay không.
+2. Hướng dẫn điều kiện đủ của SIPP 2026 (MO 47 nói "guidelines to be determined"). Cần kiểm tra đã ban hành chưa.
+3. Thông tư 34/2025/TT-BKHCN (ưu tiên lựa chọn nhà thầu cho sản phẩm số trong danh mục) và các thông tư 38, 40, 42, 48, 49/2026/TT-BKHCN.
+4. Định nghĩa "nền tảng điện toán đám mây" (mục 4, Nhóm 1 của Phụ lục II, Quyết định 21): Quyết định không định nghĩa.
+
+**Sửa cho các dòng SI (Philippines và Việt Nam):**
+| Dòng SI | Sửa |
+|---|---|
+| Mọi dòng Philippines nói "cùng một bậc ưu tiên cho AI và trung tâm dữ liệu" | Sai. SIPP 2026: phần mềm/SaaS và hyperscaler ở Tier I; trung tâm dữ liệu dùng lưới điện ở Tier I (hạ tầng thượng nguồn viễn thông); AI và khoa học dữ liệu, và trung tâm dữ liệu có nguồn điện riêng, ở Tier III. Không có điều kiện về quy mô |
+| Dòng Philippines nói "không gắn với mức đầu tư" cho quyền Tổng thống | Sai. Mục 301 đòi vốn tối thiểu PHP 50 tỷ (khoảng 865 triệu USD) hoặc ít nhất 10.000 việc làm trực tiếp trong 3 năm, cộng kế hoạch phát triển bền vững; trần 40 năm |
+| Dòng Việt Nam nói "danh sách ưu tiên hai bậc" | Sai. Quyết định 21 chia 30 sản phẩm thành Nhóm 1 (22) và Nhóm 2 (8), không xếp hạng và không gắn ưu đãi. Ưu đãi nằm ở Nghị định 260 (Điều 16: doanh thu ≥80%, R&D ≥1%, nhân sự R&D ≥10%, nội địa hoá ≥40%) |
+| AI camera biên, nền tảng bản sao số (Việt Nam) | Là sản phẩm ứng dụng: mã lại sang lớp (i) |
+
+**Việc cho đồng tác giả:** đọc song song Điều 16 Nghị định 260 trong bản gazette chính thức (không chỉ Thư viện Pháp luật), và kiểm tra cách áp dụng tiêu chí "80% doanh thu từ sản phẩm chiến lược" cho doanh nghiệp chưa có doanh thu.

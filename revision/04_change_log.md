@@ -120,3 +120,15 @@ Hình 1 và Bảng 3 đến 7 đã vẽ lại. Tiêu đề kiểu Malaysia ở B
 | Nghị định 260/2026: danh sách công nghệ, hỗ trợ trực tiếp rộng (cấp kinh phí tới 100%, miễn phí, hỗ trợ lãi suất, ưu tiên quỹ mạo hiểm); điều kiện công nhận có bậc vốn (VND 100 tỷ, 6.000 tỷ) làm tỷ lệ R&D yêu cầu giảm dần theo quy mô; hạ tầng tính toán nằm trong "hạ tầng công nghệ" | Thêm E12; sửa Bảng 3 (hình thức hỗ trợ của Vietnam); hàng "công cụ nhắm vào compute" của Vietnam nêu công cụ gần nhất |
 | NATIF hỗ trợ lãi suất, không cho vay trực tiếp | Sửa §4.2 |
 | Thông tin trích dẫn: Guide 2026 thay Guide 2025; thêm Announcement Sor. 9/2568 | Cập nhật danh mục tài liệu |
+
+## Vòng 6: đọc toàn văn RA 12066, MO 47 s. 2026 (Philippines) và Quyết định 21/2026 (Việt Nam)
+
+| Phát hiện | Hệ quả |
+|---|---|
+| SIPP 2026 tách AI và trung tâm dữ liệu theo bậc và theo nguồn điện (Tier I và Tier III), không gộp một bậc | Viết lại §4.4; sửa Bảng 3, 4, 6; bỏ chữ "AI-blind" và "uniform tiers" |
+| Mục 301 RA 12066 có điều kiện PHP 50 tỷ hoặc 10.000 việc làm; trần 40 năm; rà soát ngưỡng 3 năm một lần | Khôi phục mốc 865 triệu USD; thêm dòng vào Bảng 5 và điểm vào Hình 1 |
+| Ranh giới PHP 15 tỷ là quy tắc phân luồng giữa cơ quan xúc tiến và FIRB, kèm định nghĩa doanh nghiệp thị trường nội địa giá trị cao | Mô tả đúng trong §4.4; E7 giảm xuống "Weak to Moderate" vì bậc hoạt động có nêu AI |
+| Quyết định 21 không xếp hạng hai nhóm và không gắn ưu đãi; "nền tảng điện toán đám mây" nằm ở Nhóm 1, không có định nghĩa; chip chuyên dụng ở Nhóm 2 | Viết lại đoạn Quyết định trong §4.2; bỏ "priority list", "top tier", "ranks hardware lower" ở tóm tắt, mở đầu, §4.2, §4.5, Bảng 3, 4, kết luận, Hình 1 |
+| Nghị định 260 Điều 16: tiêu chí doanh nghiệp công nghệ chiến lược (doanh thu ≥80%, R&D ≥1%, nhân sự R&D ≥10%, nội địa hoá ≥40%) | Thêm vào §4.2 và Bảng 3, 4 như điều kiện tỷ lệ, có yếu tố tuổi doanh nghiệp (VERIFY) |
+| Bảng 1: dòng Việt Nam và Philippines cập nhật trạng thái đọc | Còn PENDING: IRR, FIRB Advisory 001-2025, hướng dẫn SIPP, các thông tư Việt Nam |
+| Tài liệu tham khảo: thêm Memorandum Order 47 (2026) | |
