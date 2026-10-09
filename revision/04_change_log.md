@@ -145,3 +145,14 @@ Bổ sung vòng 6: đọc toàn văn IRR của RA 12066 (ký 17/2/2025, hiệu l
 | Dòng 12 mã lớp (i); dòng 4 và 15 đến 17 mã (ii)+(iii); dòng 3 cross-cutting | Khớp với bản thảo |
 | Thêm dòng 21 đến 29: Thái 8.2.2 và 8.2.1; Malaysia danh mục trung tâm dữ liệu; Việt Nam Điều 3 đến 5 (hạ tầng công nghệ), Điều 16, Điều 14 đến 15; Philippines SIPP 2026 (phần mềm, AI, trung tâm dữ liệu) | Bản thảo: 29 công cụ, tám dòng cross-cutting (3, 5, 6, 18, 19, 20, 25, 26) |
 | Phiếu mù CSV mở rộng 20 thành 29 dòng; nguồn cập nhật sang văn bản 2026 | |
+
+## Vòng 8: nghiên cứu giả định A1 (nhà cung cấp nhỏ có sống được không)
+
+| Phát hiện | Hệ quả |
+|---|---|
+| Mô hình hoà vốn cho một máy chủ 8 H100 (vốn 250 đến 320 nghìn USD, colocation 200 đến 475 USD/kW/tháng, vốn 10%): ở giá hợp đồng khoảng 2,35 USD/GPU-giờ nhà cung cấp nhỏ không hoà vốn ở bất kỳ quy mô nào; ở 3,00 USD cần khoảng 80% công suất bán ra và 45 đến 270 máy chủ (13 đến 80 triệu USD); ở 3,85 USD vài máy chủ là đủ | A1 đúng có điều kiện; một máy chủ không phải nhà cung cấp |
+| Nhà cung cấp quy mô lớn hoà vốn ở công suất thấp hơn khoảng 20 điểm phần trăm | Lợi thế quy mô đến từ giá colocation, vốn và phần cứng |
+| BOI phê duyệt ngày 29/1/2025 dự án Siam AI 3,25 tỷ baht (khoảng 91 triệu USD) là dịch vụ đám mây, không phải data hosting | Ít nhất một nhà cung cấp GPU đã dùng nhánh 8.2.2 mà không cần điều kiện 5.000 triệu baht; "dự án data hosting duy nhất" của 2025 là TikTok |
+| Khoảng cách bậc tính từ đội máy khả thi chỉ 0,2 đến 1,0 bậc ở cổng GPU của Thái Lan; ngưỡng 2 MW của Thái và 0,85 MW của Malaysia nằm trong vùng khả thi | Bảng 3 có thêm cột; tóm tắt, mục 5.1, kết luận sửa theo; mệnh đề M (hai bậc trở lên) chỉ đúng nếu giá gần 3,85 USD |
+| Nguồn giá là blog nhà cung cấp, danh sách đại lý, chỉ số SemiAnalysis qua bài của Spendark | Ghi rõ là chỉ báo; cần dữ liệu giá thật |
+| Tuyên bố AI tạo sinh điền theo lời tác giả | Cần tác giả xác nhận phạm vi |

@@ -5,7 +5,7 @@ subtitle: "Instrument-level coding matrix for \"Incentive Design, Ownership, and
 
 ## Purpose
 
-This document gives the instrument-level data behind Tables 1 to 5 of the manuscript, so that the coding can be replicated. Each row is one instrument: a specific tax exemption, grant, eligibility rule or compliance requirement. The unit of analysis is the instrument, not the strategy document. A single scheme, such as Thailand's digital division, bundles several instruments, and each is coded in its own row. Table S1 holds 29 instruments, in four blocks by country; Tables S2 to S4 give the sources, the full evidence matrix and an illustrative ladder. Rows 1 to 20 are the first-coded instruments, and rows 21 to 29 were added when the primary texts were read in full for the compute layers.
+This document gives the instrument-level data behind Tables 1 to 5 of the manuscript, so that the coding can be replicated. Each row is one instrument: a specific tax exemption, grant, eligibility rule or compliance requirement. The unit of analysis is the instrument, not the strategy document. A single scheme, such as Thailand's digital division, bundles several instruments, and each is coded in its own row. Table S1 holds 29 instruments, in four blocks by country; Tables S2 to S5 give the sources, the full evidence matrix, an illustrative ladder and the viability benchmark. Rows 1 to 20 are the first-coded instruments, and rows 21 to 29 were added when the primary texts were read in full for the compute layers.
 
 ## How to read Table S1
 
@@ -116,6 +116,29 @@ Rating rubric. A hypothesis is rated *expected* (E) when a stated prediction (P1
 | 4 | 40 MW | 428 to 1,520 | Existing facility-scale incentive and negotiated packages | Already served by current designs |
 
 *Note.* Construction cost of US$10.7m per MW (Turner and Townsend, 2025); fully equipped AI capacity of US$38m per MW (Epoch AI, 2026); 12 kW per server [citation to be added]. Figures are products of these benchmarks, not estimates of this paper.
+
+## Table S5. Viability benchmark for a small provider of AI compute (assumption A1)
+
+The benchmark asks what scale of provision is commercially viable, so that the distance to an instrument's threshold can be measured from it. It is a transparent model with stated inputs, not a forecast. The script is in the replication files (`08a_viability_model.py`). All market inputs come from vendor blogs, reseller listings and trade guides, which are indicative, and prices moved sharply in 2026.
+
+**Inputs.** One eight-GPU H100 server of 12 kW is the unit. Server capital is US$250,000 to US$320,000 (reseller listings, September 2026). Realised price runs from US$1.70 to US$3.85 per GPU-hour: the low end is the 1-year contract index of October 2025 and the high end the on-demand list price of neoclouds, with US$2.35 (the March 2026 contract index) and US$3.00 between (Spendark, 2026). Colocation is US$200 to US$475 per kW a month (Singapore guides give US$310 to US$475; North American wholesale is about US$196), with metered power at US$0.11 per kWh, the Thai average tariff of THB 3.95 per kWh for September to December 2026 (Thai Energy Regulatory Commission, through press reports). Capital is charged as an annuity at 10 per cent over three to five years with no residual value, and 10 per cent of revenue goes to payment, support and bandwidth costs. A scale provider is given wholesale colocation at US$150 per kW, a hardware price of US$250,000 and a cost of capital of 8 per cent. The overhead of running a provider (certification, audit, staff, monitoring) is not observed, so it is varied from US$50,000 to US$300,000 a year.
+
+**Break-even utilisation** (share of hours sold; above 1.00 means no break-even):
+
+| Case | US$1.70 | US$2.35 | US$3.00 | US$3.85 |
+|---|---|---|---|---|
+| Small provider, favourable inputs | 0.96 | 0.69 | 0.54 | 0.42 |
+| Small provider, central inputs | 1.40 | 1.01 | 0.79 | 0.62 |
+| Small provider, adverse inputs | 1.91 | 1.38 | 1.08 | 0.84 |
+| Scale provider | 0.98 | 0.71 | 0.56 | 0.43 |
+
+**Minimum fleet** to cover the overhead, central inputs, 80 per cent utilisation: at US$3.00 per GPU-hour, 45 servers (US$13m) for an overhead of US$50,000, 134 servers (US$40m) for US$150,000 and 268 servers (US$80m) for US$300,000. At US$3.85, one to seven servers suffice. At US$2.35 or below, no fleet size covers the overhead.
+
+**Reading.** First, a single server is not a viable provider. Second, viability turns on price. A small provider breaks even only if it can sell near or above US$3.00 per GPU-hour at about 80 per cent utilisation, and at contract-index prices it cannot break even at any size. Third, scale lowers the break-even utilisation by about 20 percentage points at the same price, through cheaper colocation, capital and hardware. Fourth, the viable scale lies between a few servers (US$0.3m to US$2m of capital at US$3.85) and tens to hundreds of servers (US$13m to US$80m at US$3.00), and does not exist at US$2.35 or below. Distances from US$13m to US$80m are given in Table 3 of the manuscript.
+
+**Observed entrants.** Thailand's BOI approved a THB 3.25 billion (about US$91m) cloud-services project for Siam AI Corporation, a Thai company and NVIDIA cloud partner, on 29 January 2025, classed as cloud services focusing on AI applications and not as data hosting (Board of Investment of Thailand, 2025). Press reports say its equipment is hosted in third-party colocation data centres (STT Bangkok 1). The only data-hosting project approved in 2025 was TikTok's, at THB 126.8 billion. Vietnamese and regional GPU clouds also run on leased colocation space. We could not verify their scale or incentives.
+
+*Sources.* Spendark (2026), cloud GPU price war, citing SemiAnalysis's GPU index (https://spendark.com/blog/cloud-gpu-price-war-2026/). Reseller listings for 8-GPU H100 servers (https://gpuperhour.com/blog/nvidia-h100-price). Colocation guides (https://brightlio.com/colocation-pricing/; https://www.coradvisors.net/2026/08/colocation-pricing-per-rack-2026.html). Break-even and margin estimates (https://www.gpunex.com/blog/gpu-cluster-economics-2026). BOI news of 29 January 2025 (https://osos.boi.go.th/EN/news/2163).
 
 ## Currency conversion
 

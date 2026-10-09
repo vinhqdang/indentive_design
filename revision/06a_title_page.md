@@ -6,7 +6,7 @@ title: "Title page (not anonymised; upload separately from the blind manuscript)
 
 **Journal:** Innovation and Development (Taylor & Francis); article type: original article
 
-**Word count:** 7,685 words, including abstract, tables, figure caption, references and declarations (limit 8,000).
+**Word count:** 7,882 words, including abstract, tables, figure caption, references and declarations (limit 8,000).
 
 **Authors**
 
@@ -15,7 +15,7 @@ title: "Title page (not anonymised; upload separately from the blind manuscript)
 
 **Keywords:** AI industrial policy; investment incentives; incentive design; middle-income trap; middle-technology trap; Southeast Asia
 
-**Abstract (193 words):** as in the manuscript.
+**Abstract (196 words):** as in the manuscript.
 
 **CRediT roles** (collected in the submission portal) [AUTHORS TO COMPLETE]: conceptualisation; data curation; formal analysis; investigation; methodology; writing, original draft; writing, review and editing; and any others.
 
@@ -23,8 +23,8 @@ title: "Title page (not anonymised; upload separately from the blind manuscript)
 
 **Disclosure statement** [AUTHORS TO COMPLETE]: any financial interest or benefit arising from direct applications of the research, or a statement that there is none.
 
-**Declaration of generative AI use** [AUTHORS TO COMPLETE]: the journal requires a statement of whether and how generative AI was used in the research and manuscript preparation. It must describe what actually happened. Do not use the suggested "not used" wording unless it is true.
+**Declaration of generative AI use:** The authors used generative AI to polish the writing of this manuscript. The authors reviewed and edited the text and take full responsibility for the content. [AUTHORS TO CONFIRM that this describes all uses, including any help with reading sources, coding or drafting, and name the tool if the journal asks.]
 
-**Data availability.** The instrument-level coding matrix and sources are in the Supporting Information (Tables S1 to S4) and the blind coding sheet.
+**Data availability.** The instrument-level coding matrix and sources are in the Supporting Information (Tables S1 to S5) and the blind coding sheet.
 
-**Supplemental material.** Supporting Information, Tables S1 to S4 (upload as supplemental file).
+**Supplemental material.** Supporting Information, Tables S1 to S5 (upload as supplemental file).
