@@ -96,3 +96,15 @@ Reviewer giả (một agent đóng vai referee của Innovation and Development)
 Nhãn giả thuyết đã đổi so với bản gửi RDE: H1 nay là chi phí, H2 là thiết kế thiên về quy mô, H3 là thói quen hành chính.
 
 Các việc chưa làm: viability benchmark (cần số liệu giá thuê GPU, giá colocation); bảng mã hoá cho đối chứng (non-AI); dữ liệu từng dự án BOI; cập nhật Supporting Information.
+
+## Vòng 4: cập nhật theo văn bản chính thức 2024–2026 của Malaysia (đọc toàn văn ngày 9/10/2026)
+
+| Phát hiện từ nguồn chính thức | Hệ quả cho bài |
+|---|---|
+| DESAC: RM2,5 triệu vốn đã nộp áp dụng cho cả Tier 1 và Tier 2; không phải "thang vốn". Quy mô dự án để theo đề xuất; RM1 tỷ luỹ kế là điều kiện của năm sáu đến mười | Bỏ khẳng định Malaysia có "thang bậc vốn" và "bậc vào gần chi phí một máy chủ"; kiểu Malaysia đổi thành "hai kênh song song" |
+| Hướng dẫn bền vững cho trung tâm dữ liệu: hạng mục nhỏ nhất 0,85 MW | Khoảng cách bậc của kênh trung tâm dữ liệu Malaysia: 1,3 đến 2,4 bậc độ lớn, không phải 0,1 đến 0,6 |
+| Malaysia Digital (MDEC, 7/2025): "cloud" là công nghệ ưu tiên, vốn đã nộp RM50.000, tự khai hằng năm có kiểm toán độc lập do công ty trả | Malaysia là ca ngược lại duy nhất: có thể có kênh vốn thấp cho nhà cung cấp đám mây nhỏ; bài hàng E6 nay đã kiểm chứng; cần xác nhận với MDEC |
+| NIF (MIDA, 2026): chuyển từ danh mục theo ngành và ưu đãi theo lợi nhuận sang đánh giá theo kết quả; DESAC vẫn mở đến 31/12/2027 | Thêm vào §4.3 và Bảng 1; bỏ ghi "tái cấu trúc chính thức" như một sự kiện đã xác nhận |
+| Thailand (nguồn thứ cấp): 8.2.4 cần 2 MW và hai trung tâm dữ liệu ISO 27001; tồn tại 8.2.1 và 8.2.2 | Sửa Bảng 3 và Bảng 6; đánh VERIFY cho đến khi đọc thông báo BOI gốc |
+
+Hình 1 và Bảng 3 đến 7 đã vẽ lại. Tiêu đề kiểu Malaysia ở Bảng 4: "Two parallel tracks". Các tham chiếu Malaysia nay là MDEC (2025), MIDA (2024, 2026) và MITI (2024).

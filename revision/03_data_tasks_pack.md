@@ -93,3 +93,25 @@ Quy tắc: kiểm tra trên trang công bố chính thức của cơ quan ban h�
 2. Tên người mã hoá thứ hai và thời gian.
 3. Xác nhận rằng bài vẫn chưa nộp ở tạp chí khác và rằng tác giả đã đồng ý nộp cho tạp chí mới.
 4. Xác nhận cách các nguồn (Ke 2024, Zheng 2024, Bahar et al. 2026, Bianchi et al. 2024) đo hoặc phân loại trap, để điền các ô VERIFY ở §2.1 và §3.1 (R2-2, R2-5).
+
+
+## G. Kết quả tra cứu bản mới của Malaysia (9/10/2026): các nguồn chính thức đã đọc
+
+Các file này tôi đã tải và đọc toàn văn; các dòng SI dưới đây cần cập nhật theo chúng.
+
+| Nguồn | Link | Ghi chú |
+|---|---|---|
+| MIDA, Guidelines and Procedures for the Application of DESAC (bản đăng 12/2024, đơn nhận đến 31/12/2027) | https://www.mida.gov.my/wp-content/uploads/2024/12/DESAC-Guideline_MIDA.pdf | Thay bản 2022 |
+| Guideline for Sustainable Development of Data Centre (12/2024) | https://www.mida.gov.my/wp-content/uploads/2024/12/Guideline-for-Sustainable-Development-of-Data-Centre.pdf | Danh mục cơ sở nhỏ nhất: 0,85 MW |
+| MIDA, New Incentive Framework (NIF) và FAQ (2026) | https://www.mida.gov.my/media-release/new-incentive-framework-nif/ | Sản xuất từ 1/3/2026; dịch vụ từ Q2/2026 (ngày chưa công bố); FAQ câu 20: DESAC vẫn mở đến hết hạn |
+| MDEC, Guidelines on MD Tax Incentive, New Investment (sửa 22/7/2025) | https://www.mdec.my/announcement/md-tax-incentive-revised-guidelines | Thay bản 2024; vốn đã nộp RM50.000; tự khai hằng năm có kiểm toán độc lập do công ty trả |
+
+Cập nhật cho SI:
+
+* **Dòng 14 (MD tax incentive):** RM50.000 vốn đã nộp và bản tự khai hằng năm có kiểm toán độc lập, công ty trả chi phí, **đã được xác nhận** với hướng dẫn MDEC bản 7/2025. Cần ghi thêm: phải có MD Status, hoạt động mới (chưa xuất hóa đơn trước khi nộp đơn), "cloud" là một công nghệ thúc đẩy được ưu tiên, nhân viên tri thức lương cơ bản tối thiểu RM5.000/tháng.
+* **Dòng 15 và 16 (DESAC):** RM2,5 triệu vốn đã nộp là điều kiện tối thiểu chung cho **cả hai bậc** (Tier 1 và Tier 2); hai bậc khác nhau ở điều kiện kết quả, không khác ở vốn. RM1 tỷ chi tiêu vốn luỹ kế là điều kiện của **năm thứ sáu đến mười**. Doanh nghiệp hiện hữu: thêm điều kiện RM300 triệu trong năm năm.
+* **Dòng 17 (nhân sự):** nay đã biết con số: lao động Malaysia toàn thời gian lương cơ bản tối thiểu RM5.000/tháng, chiếm ít nhất 50% tổng nhân lực; "việc làm giá trị cao" từ RM10.000/tháng.
+* **Thêm dòng mới:** hạng mục cơ sở nhỏ nhất trong Guideline for Sustainable Development of Data Centre (0,85 MW đến dưới 4,25 MW, điện áp thấp 11 kV); ưu đãi DESAC chỉ áp dụng cho chi tiêu vốn đủ điều kiện **không gồm đất**; phải nộp đơn trước khi bắt đầu dự án và được Ủy ban Đầu tư Quốc gia duyệt.
+* **Thailand (nguồn thứ cấp, chưa phải văn bản BOI):** Activity 8.2.4 tối thiểu THB 5 tỷ **không gồm đất và vốn lưu động**, hệ thống điện tối thiểu 2 MW, tối thiểu hai trung tâm dữ liệu đạt ISO/IEC 27001 tại Thái Lan; Activity 8.2.1 bậc cao cần PUE ≤1,3 và tải IT ≥2 MW; Activity 8.2.2 (dịch vụ đám mây) tồn tại. Hàng 4 và ô "Thailand cloud: không có riêng" trong SI cần sửa sau khi đọc thông báo BOI gốc. Tìm: https://www.tilleke.com/insights/thailand-announces-new-investment-incentives-for-data-hosting/ (bản tóm tắt của hãng luật, không phải nguồn gốc).
+
+Việc còn lại cho Malaysia: hỏi hoặc tìm thực tiễn của MDEC về việc "cung cấp năng lực tính toán như một dịch vụ" có được chấp nhận là hoạt động Malaysia Digital hay không (câu hỏi quyết định cho kết quả của bài), và đo chi phí kiểm toán so với RM50.000.

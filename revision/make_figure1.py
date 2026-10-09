@@ -47,12 +47,13 @@ def pt(country, x, layer, label, hollow=False, dx=0, dy=0.2, ha="center"):
 # Thailand
 pt("Thailand", 0.042, "app", "Software\n$0.04m a year in\nlocal salaries", hollow=True)
 pt("Thailand", 140, "infra", "GPU data hosting\n$140m minimum capital")
-# Malaysia (graduated ladder)
+# Malaysia (two parallel tracks)
 ym = ypos["Malaysia"]
-ax.plot([0.55, 220], [ym, ym], color="#8d8c86", lw=1.6, zorder=2)
-pt("Malaysia", 0.011, "app", "Malaysia Digital\n$0.011m paid-up capital")
-pt("Malaysia", 0.55, "infra", "DESAC entry tier\n$0.55m paid-up capital*", dx=0.0)
-pt("Malaysia", 220, "infra", "DESAC top tier\n$220m capex")
+pt("Malaysia", 0.011, "app", "Malaysia Digital (incl. cloud)\n$0.011m paid-up capital")
+pt("Malaysia", 0.55, "infra", "DESAC capitalisation floor\n$0.55m paid-up capital*")
+ax.plot([0.85 * CONSTR, 0.85 * EQUIP], [ym, ym], color=ORANGE, lw=6, solid_capstyle="butt", zorder=4)
+ax.text((0.85 * CONSTR * 0.85 * EQUIP) ** 0.5, ym - 0.12, "Smallest DESAC data-centre\ncategory: 0.85 MW (capital to host)", ha="center", va="top", fontsize=7, color=INK)
+pt("Malaysia", 220, "infra", "DESAC 10-year condition\n$220m cumulative capex")
 # Philippines
 pt("Philippines", 260, "infra", "PHP 15bn firm-scale tier\n$260m, all activity types")
 ax.text(0.011, ypos["Philippines"] + 0.1, "Application layer: no stated minimum",
