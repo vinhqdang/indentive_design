@@ -12,11 +12,11 @@ Corresponding author: Quang-Vinh Dang, vinh.dq4@buv.edu.vn
 
 Co-author email: hanh.nth1@hvnh.edu.vn
 
-Word count: 7,878 (including abstract, tables, figure caption, references and declarations)
+Word count: 7,830 (including abstract, tables, figure caption, references and declarations)
 
 ## Abstract
 
-Southeast Asian governments have made artificial intelligence (AI) a pillar of industrial policy, but little is known about which domestic firms their incentive rules admit to the AI stack. We code 29 instruments from the legal texts of Thailand, Vietnam, Malaysia and the Philippines, place their capital thresholds on a common cost scale, and test three explanations: cost necessity, scale-favouring design and administrative habit. The four systems use different architectures: capital-gated activities, two parallel tracks, a strategic-technology list and activity tiers with a common firm-scale boundary. All make application-layer support accessible to small firms. At the compute layers, Thailand's gates lie two to three orders of magnitude above the capital to host one server but about one order or less above the fleet a provider-economics benchmark finds viable, and Malaysia's data-centre track starts at 0.85 MW. Where small cloud providers can enter on paper, the screen is a fixed compliance cost. Vietnam and the Philippines state no capital rule. No instrument is aimed at provision below facility scale. Cost largely explains Thailand's gate but not the pattern across countries. The evidence concerns eligibility, not realised access, and does not show a middle-technology trap.
+Southeast Asian governments have made artificial intelligence (AI) a pillar of industrial policy, but little is known about which domestic firms their incentive rules admit to the AI stack. We code 29 instruments from the legal texts of Thailand, Vietnam, Malaysia and the Philippines and place their capital thresholds on a common cost scale. The four systems use four architectures: capital gates, parallel tracks, a strategic-technology list and activity tiers. All make application-layer support accessible to small firms. At the compute layers, Thailand's gates lie two to three orders of magnitude above the capital to host one server, but about one order or less above the fleet a viability benchmark finds workable. Where small cloud providers can enter, the screen is a fixed compliance cost. No instrument targets provision below facility scale. The evidence concerns legal eligibility, not realised access, and does not show a middle-technology trap.
 
 **Keywords:** AI industrial policy; investment incentives; incentive design; middle-income trap; middle-technology trap; Southeast Asia
 

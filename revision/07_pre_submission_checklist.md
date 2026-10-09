@@ -8,7 +8,7 @@ Nguồn yêu cầu: Instructions for Authors của tạp chí (trang tandfonline
 |---|---|
 | Tối đa 8.000 từ, gồm bảng, tài liệu tham khảo, chú thích hình | **Đạt**: 7.878 từ (đếm trong docx, gồm chỗ giữ chỗ); bản cũ dài 17.800 từ nên đã rút gọn, chi tiết chuyển sang Supporting Information |
 | Phản biện kín hai chiều (double blind) | Bản `06_submission_manuscript` không có tên tác giả; trang tựa đề tách riêng ở `06a_title_page`. Cần kiểm lại thuộc tính file docx (File, Info) xoá tên tác giả trước khi tải lên |
-| Tóm tắt không cấu trúc, 200 từ | 196 từ |
+| Tóm tắt không cấu trúc, 200 từ | 147 từ (cổng nộp yêu cầu dưới 150) |
 | 5 đến 6 từ khoá | 6 từ khoá |
 | Định dạng tự do, một kiểu trích dẫn nhất quán (T&F áp kiểu Chicago tác giả-năm sau khi chấp nhận) | Đang dùng tác giả-năm; nhất quán |
 | Hình 300 dpi màu | `fig1_threshold_ladder.png` là 300 dpi |

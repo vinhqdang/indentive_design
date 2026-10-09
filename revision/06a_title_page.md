@@ -6,7 +6,7 @@ title: "Title page (not anonymised; upload separately from the blind manuscript)
 
 **Journal:** Innovation and Development (Taylor & Francis); article type: original article
 
-**Word count:** 7,878 words, including abstract, tables, figure caption, references and declarations (limit 8,000).
+**Word count:** 7,830 words, including abstract, tables, figure caption, references and declarations (limit 8,000).
 
 **Authors**
 
@@ -15,7 +15,7 @@ title: "Title page (not anonymised; upload separately from the blind manuscript)
 
 **Keywords:** AI industrial policy; investment incentives; incentive design; middle-income trap; middle-technology trap; Southeast Asia
 
-**Abstract (196 words):** as in the manuscript.
+**Abstract (147 words):** as in the manuscript.
 
 **CRediT roles** (collected in the submission portal) [AUTHORS TO COMPLETE]: conceptualisation; data curation; formal analysis; investigation; methodology; writing, original draft; writing, review and editing; and any others.
 
