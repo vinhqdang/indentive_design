@@ -151,7 +151,7 @@ Các điều chỉnh cho SI (Vietnam, từ toàn văn Nghị định 260/2026/N�
 **Đã đọc toàn văn:** Republic Act 12066 (lawphil.net/statutes/repacts/ra2024/ra_12066_2024.html); Memorandum Order 47 ngày 21/5/2026 phê duyệt SIPP 2026 (lawphil.net/executive/mo/mo2026/mo_47_2026.html); Quyết định 21/2026/QĐ-TTg (bản trên Thư viện Pháp luật).
 
 **Chưa đọc được (việc còn lại):**
-1. Quy định thi hành (IRR) của RA 12066 và FIRB Advisory 001-2025: trang FIRB tải về chỉ trả HTML, không phải PDF. Cần tải bản PDF từ firb.gov.ph và kiểm tra có quy định vốn tối thiểu cho đăng ký thông thường hay không.
+1. ~~IRR~~ **Đã đọc** (48 trang, https://firb.gov.ph/download/create-more-act-irr/). IRR không đặt vốn tối thiểu để đăng ký; cơ quan xúc tiến (IPA) có thẩm quyền đăng ký mọi dự án trong SIPP bất kể vốn; hồ sơ gồm báo cáo tài chính kiểm toán (nếu có), dự báo tài chính không ưu đãi, dự báo thuế; tỷ lệ chi phí-lợi ích âm sơ bộ không tự động loại hồ sơ. FIRB Advisory 001-2025 chỉ là thư một trang giới thiệu IRR.
 2. Hướng dẫn điều kiện đủ của SIPP 2026 (MO 47 nói "guidelines to be determined"). Cần kiểm tra đã ban hành chưa.
 3. Thông tư 34/2025/TT-BKHCN (ưu tiên lựa chọn nhà thầu cho sản phẩm số trong danh mục) và các thông tư 38, 40, 42, 48, 49/2026/TT-BKHCN.
 4. Định nghĩa "nền tảng điện toán đám mây" (mục 4, Nhóm 1 của Phụ lục II, Quyết định 21): Quyết định không định nghĩa.

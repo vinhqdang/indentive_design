@@ -132,3 +132,5 @@ Hình 1 và Bảng 3 đến 7 đã vẽ lại. Tiêu đề kiểu Malaysia ở B
 | Nghị định 260 Điều 16: tiêu chí doanh nghiệp công nghệ chiến lược (doanh thu ≥80%, R&D ≥1%, nhân sự R&D ≥10%, nội địa hoá ≥40%) | Thêm vào §4.2 và Bảng 3, 4 như điều kiện tỷ lệ, có yếu tố tuổi doanh nghiệp (VERIFY) |
 | Bảng 1: dòng Việt Nam và Philippines cập nhật trạng thái đọc | Còn PENDING: IRR, FIRB Advisory 001-2025, hướng dẫn SIPP, các thông tư Việt Nam |
 | Tài liệu tham khảo: thêm Memorandum Order 47 (2026) | |
+
+Bổ sung vòng 6: đọc toàn văn IRR của RA 12066 (ký 17/2/2025, hiệu lực 20/2/2025). Không có vốn tối thiểu để đăng ký; ngưỡng PHP 15 tỷ và PHP 50 tỷ được lặp lại trong IRR; hồ sơ gồm báo cáo tài chính và dự báo cho cả kỳ ưu đãi (chi phí cố định, ghi vào cột tuân thủ). Tài liệu tham khảo đổi từ FIRB Advisory sang IRR (Bộ Tài chính và Bộ Công Thương, 2025). Bảng 1, §4.4, Bảng 3, 6 và E7 đã bỏ dấu PENDING về IRR; còn lại hướng dẫn điều kiện của SIPP.
