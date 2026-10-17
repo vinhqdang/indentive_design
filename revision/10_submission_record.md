@@ -39,3 +39,8 @@ Tài trợ: không có. Xung đột lợi ích: không có. AI tạo sinh: polis
 * Thư chỉ nói bài "unsuitable for publication in Innovation and Development", không nêu lý do. Các lý do có thể (suy đoán, chưa biết): bài thiên về phân tích văn bản pháp lý và chính sách hơn là đổi mới và phát triển theo nghĩa thực nghiệm của tạp chí; chưa đo kết quả thực tế; giả định A1 yếu.
 * Bản đang dùng là `06_submission_manuscript.md` (7.830 từ). Bản dài `02` vẫn giữ.
 * Việc chuẩn bị cho lần nộp tiếp: chọn tạp chí, đọc hướng dẫn tác giả của tạp chí đó (giới hạn từ, kiểu trích dẫn, có cần ẩn danh không), sửa tóm tắt và độ dài cho khớp, và nếu có thể thì xử lý các điểm yếu 1 và 2 ở trên trước.
+
+## Tạp chí tiếp theo: Development Policy Review (Wiley), chọn 17/10/2026
+* Cổng nộp: https://authors.wiley.com/journal/DPR . Hướng dẫn: giới hạn 8.000 từ không tính tóm tắt và tài liệu tham khảo (bài đang khoảng 7.240); tóm tắt có cấu trúc dưới 300 từ (Motivation, Purpose, Approach and methods, Findings, Policy implications); trích dẫn APA 7 có DOI; tiếng Anh Anh với đuôi -ize; không dùng "developing countries"; đóng góp của từng tác giả và khai báo AI đặt ở mục Acknowledgements; khai báo bài chưa đăng ở dạng working paper.
+* Bản cho DPR: `11_dpr_manuscript.docx` (mù) và `11c_dpr_manuscript_with_author_details.docx`. Phạm vi của tạp chí ưu tiên phân tích thực nghiệm và ý nghĩa chính sách có thể khái quát; không nhận bài quá chuyên môn hoặc nghiên cứu ca không khái quát được.
+* Còn thiếu: đóng góp của từng tác giả (mục Acknowledgements); xác nhận tuyên bố AI. DPR yêu cầu văn bản phản ánh giọng học thuật của tác giả nếu phần lớn do AI soạn, nên hai tác giả cần đọc và sửa lại câu chữ.
