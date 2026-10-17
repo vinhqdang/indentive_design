@@ -252,7 +252,7 @@ This paper asked where four Southeast Asian incentive systems screen entrants to
 
 ## Acknowledgements
 
-**Authors' contributions.** [AUTHORS TO COMPLETE: how each author contributed to the conceptual framework and research design, data collection and processing, analysis and interpretation, and writing.]
+**Authors' contributions.** The first author developed the conceptual framework, research design and methodology, collected and coded the legal texts, analysed and interpreted the data, and wrote the first draft. The second author contributed to the research design, checked the sources and coding, contributed to the interpretation of the findings, and revised the manuscript for rigour and coherence.
 
 **Use of generative AI.** The authors used generative AI to assist with drafting, editing and formatting the manuscript, and as a blind second coder to check the coding of legal instruments (Section 3.2). The authors reviewed and edited the text and take full responsibility for the content.
 
