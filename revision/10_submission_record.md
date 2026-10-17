@@ -4,7 +4,8 @@
 **Tạp chí:** Innovation and Development (Taylor & Francis), cổng Routledge: https://rp.tandfonline.com/submission/create?journalCode=RIAD
 **Ngày nộp:** 9/10/2026 (theo xác nhận của tác giả)
 **Tác giả:** Quang-Vinh Dang (liên hệ), British University Vietnam; Thi-Hong-Hanh Nguyen, Banking Academy of Vietnam
-**Mã bài (manuscript ID):** [điền khi có email xác nhận của tạp chí]
+**Mã bài (manuscript ID):** [không ghi lại]
+**Kết quả (17/10/2026):** bị từ chối ở bước biên tập (Dr Claudia De Fuentes), 8 ngày sau khi nộp; thư không nêu lý do và không kèm nhận xét của reviewer. Không có gì để trả lời, chỉ chuyển sang tạp chí khác.
 **Lịch sử:** bản trước bị Review of Development Economics từ chối (bản 4982555, đầu 2026); bài đã viết lại theo nhận xét của ba reviewer và biên tập viên, và đổi sang hướng kiến trúc ưu đãi.
 
 ## File đã nộp (nhánh `main`, thư mục `revision/`)
@@ -33,3 +34,8 @@ Tài trợ: không có. Xung đột lợi ích: không có. AI tạo sinh: polis
 ## Việc khi có phản hồi
 * Nếu reviewer yêu cầu sửa: bản dài `02_revised_manuscript.md` có thêm chi tiết nhưng chưa cập nhật theo kết quả A1; dùng `06_submission_manuscript.md` làm gốc.
 * Tạp chí áp kiểu trích dẫn Chicago tác giả-năm sau khi chấp nhận; cần bản docx sửa được ở vòng sửa.
+
+## Sau khi bị từ chối (17/10/2026)
+* Thư chỉ nói bài "unsuitable for publication in Innovation and Development", không nêu lý do. Các lý do có thể (suy đoán, chưa biết): bài thiên về phân tích văn bản pháp lý và chính sách hơn là đổi mới và phát triển theo nghĩa thực nghiệm của tạp chí; chưa đo kết quả thực tế; giả định A1 yếu.
+* Bản đang dùng là `06_submission_manuscript.md` (7.830 từ). Bản dài `02` vẫn giữ.
+* Việc chuẩn bị cho lần nộp tiếp: chọn tạp chí, đọc hướng dẫn tác giả của tạp chí đó (giới hạn từ, kiểu trích dẫn, có cần ẩn danh không), sửa tóm tắt và độ dài cho khớp, và nếu có thể thì xử lý các điểm yếu 1 và 2 ở trên trước.
