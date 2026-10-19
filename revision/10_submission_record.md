@@ -49,3 +49,8 @@ Tài trợ: không có. Xung đột lợi ích: không có. AI tạo sinh: polis
 * Mã bài DPR-26-01004. Biên tập viên Dr Annalisa Prizzon: bài "interesting and useful", nhưng chủ đề "marginal to our field", đề nghị nộp tạp chí đã đăng nhiều hơn về lĩnh vực này. Không có nhận xét của reviewer; đây là từ chối vì phạm vi, không phải về chất lượng.
 * Hệ quả: nên chọn tạp chí đã đăng về chính sách AI, hạ tầng số và công nghiệp công nghệ, không phải tạp chí phát triển nói chung. Ứng viên: Telecommunications Policy, Technological Forecasting and Social Change, Technology in Society, Science and Public Policy, Journal of the Asia Pacific Economy. Chưa kiểm hướng dẫn tác giả của tạp chí nào.
 * Bản dùng lại: `11_dpr_manuscript` (đã có tóm tắt có cấu trúc 267 từ và đuôi -ize); mỗi tạp chí cần chỉnh lại tóm tắt, kiểu trích dẫn và số từ.
+
+## Tạp chí tiếp theo: Telecommunications Policy (Elsevier), chọn 19/10/2026
+* Hướng dẫn: phản biện kín hai chiều (title page và bản mù tách file; bản mù không có lời cảm ơn); tóm tắt không cấu trúc tối đa 250 từ (bản này 208 từ); 1 đến 7 từ khoá; highlights bắt buộc (3 đến 5 gạch đầu dòng, mỗi dòng tối đa 85 ký tự, file tên có "highlights"); khai báo AI ở mục riêng trước tài liệu tham khảo, nêu tên công cụ; CRediT; APA 7 với DOI; bảng không kẻ dọc; hình tách file (bitmap nét tối thiểu 1000 dpi hoặc vector). Không nêu giới hạn số từ.
+* File: `12_tp_manuscript_anonymized.docx`, `12a_tp_title_page.docx`, `12b_tp_cover_letter.docx`, `12c_tp_highlights.docx`, `tp_files/Figure_1.pdf` và `Figure_1.png` (1000 dpi), `05_supporting_information.docx`.
+* Cần xác nhận: địa chỉ bưu chính của hai đơn vị trên title page (mình điền theo trí nhớ); tên công cụ AI trong khai báo (theo yêu cầu của Elsevier).
