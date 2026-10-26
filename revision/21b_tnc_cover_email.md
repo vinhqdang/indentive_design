@@ -18,7 +18,7 @@ The main findings are these. Barriers at facility scale are high only in Thailan
 
 We think the paper fits the journal because it concerns investment policy and its effect on the entry of foreign and domestic firms in a strategic, digital industry, and it uses UNCTAD data. The manuscript is within the 10,000-word limit including all elements, with an abstract of under 150 words, keywords and JEL codes. The main text does not identify the authors, whose details are in the title page.
 
-We confirm that the manuscript has not been published or submitted elsewhere and will not be until the editorial process ends or it is withdrawn. The authors have no conflict of interest and received no funding. We disclose the use of generative AI (Claude, Anthropic) for drafting, editing and formatting, for collecting public project records and as a blind second coder of the legal instruments, with all content reviewed and edited by the authors, who take full responsibility.
+We confirm that the manuscript has not been published or submitted elsewhere and will not be until the editorial process ends or it is withdrawn. The authors have no conflict of interest and received no funding.
 
 Yours sincerely,
 

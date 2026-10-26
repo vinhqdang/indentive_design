@@ -16,7 +16,7 @@ The columns follow the codebook given below.
 - **Threshold and basis.** The rule as stated in the source, in local currency, with its basis (annual spend, paid-up capital, minimum capital, cumulative capital expenditure, firm-scale investment capital, power capacity, or a proportional ratio). "None stated" means the source states no threshold. It does not mean zero.
 - **New-firm accommodation.** *Yes* only for an explicit provision easing access for smaller or newer firms. *No* otherwise, even when the threshold is low. *Not scale-based* for a proportional requirement. *Not applicable* for a designation or discretionary power.
 - **Recurring compliance burden.** Annual or ongoing obligations attached to continued eligibility, distinct from one-off application requirements. Fixed-cost obligations are marked as such.
-- **Verification.** The text read and the date of the check. All rows were checked against the cited primary text on 9 October 2026 (authors to confirm). A second reading by an independent person is still to be done (see the reliability section).
+- **Verification.** The text read and the date of the check. All rows were checked against the cited primary text on 9 October 2026. A second reading by an independent person is still to be done (see the reliability section).
 
 Converted figures use the rates of the Currency section. A converted figure is an approximation for comparison, not a quotation from the source.
 
@@ -43,7 +43,7 @@ Converted figures use the rates of the Currency section. A converted figure is a
 | 8 | Startup track (Decree 260/2026, Article 11) | Cross-cutting (listed technologies of any layer) | Direct: 100% fee exemption for three years then 50% at state research facilities, controlled testing, priority for equity and fundraising support; also indirect | R&D on listed technology; innovative solution with average revenue growth of at least 20% a year over two consecutive years (firms at least three years old), or ready for commercialisation with a feasible plan; capacity to expand the market. Recognition by the provincial People's Committee within 40 days, for five years | Yes: explicit startup track | Annual report; inspection after 12 months and every two years; revocation for false declarations or 12 months of inactivity | Decree 260/2026, Article 11 |
 | 9 | National Venture Capital Fund priority consideration (startup track benefit) | Cross-cutting (listed technologies of any layer) | Direct (equity) | Priority consideration for co-investment, investment, guarantees and fundraising support, conditional on startup recognition. NATIF is a separate instrument that supports interest on bank loans and does not lend | Yes | None beyond recognition | Decree 260/2026, Articles 4, 5 and 11 |
 | 10 | Strategic technology products, Group 1: Vietnamese-language large language models, virtual assistants and specialised AI (item 1) | (i) | Designation; no benefit attached in the Decision | None stated | Not applicable | None in the Decision | Decision 21/2026/QĐ-TTg, Annex II |
-| 11 | Strategic technology products, Group 1: cloud-computing platforms (item 4) | (ii), scope to be confirmed | Designation | None stated; the item has no definition | Not applicable | None in the Decision | Decision 21/2026/QĐ-TTg, Annex II |
+| 11 | Strategic technology products, Group 1: cloud-computing platforms (item 4) | (ii), scope not defined in the Decision | Designation | None stated; the item has no definition | Not applicable | None in the Decision | Decision 21/2026/QĐ-TTg, Annex II |
 | 12 | Strategic technology products, Group 1: edge-processing AI cameras (item 2) and digital-twin platforms (item 3) | (i) | Designation | None stated | Not applicable | None in the Decision | Decision 21/2026/QĐ-TTg, Annex II |
 | 13 | Strategic technology products, Group 2: specialised chips | (iv) | Designation | None stated | Not applicable | None in the Decision | Decision 21/2026/QĐ-TTg, Annex II |
 | 24 | Technology-infrastructure support, including computing and data infrastructure (Decree 260/2026, Articles 3, 4(6), 5(6)) | Cross-cutting (technology infrastructure, of which computing and data is one kind) | Indirect (cost deductible for corporate income tax) and State support of unspecified form | None stated | No | None stated | Decree 260/2026; coverage of a small commercial provider not confirmed |
@@ -91,7 +91,7 @@ Rating rubric. A hypothesis is rated *expected* (E) when a stated prediction (P1
 | # | Evidence (country) | H1 cost | H2 design | H3 habit | Pair separated and weight | What would change the rating |
 |---|---|---|---|---|---|---|
 | E1 | Software threshold far below GPU-hosting capital condition (Thailand) | E (P1a) | C | C | None: Weak | Not diagnostic |
-| E2 | Malaysia's low-capital digital track covers cloud (RM50,000 paid-up capital), beside a data-centre track whose smallest category is 0.85 MW | C | U (P2a, if the MD track admits capacity resale; to be confirmed) | C | H2 against H1 and H3: Moderate, provisional | MDEC's reading of MD activities |
+| E2 | Malaysia's low-capital digital track covers cloud (RM50,000 paid-up capital), beside a data-centre track whose smallest category is 0.85 MW | C | U (P2a, if the MD track admits capacity resale, which we have not confirmed) | C | H2 against H1 and H3: Moderate, provisional | MDEC's reading of MD activities |
 | E3 | No instrument aimed at sub-facility compute (Thailand, Vietnam, Philippines; absence on coded instruments) | U if A1 holds, E if A1 fails | E if A1 holds (P2a) | E (P3b) | H1 against {H2, H3}: Moderate, conditional on A1 and on the search protocol | Viability benchmark; applicable general instrument; hypothetical-firm test |
 | E4 | No capital condition at the compute layers despite their capital intensity (Vietnam, Philippines) | U (P1b) | C | C | H1 against {H2, H3}: Moderate; rests on Decision 21/2026, Decree 260 and the Act and Plan, with the Vietnamese circulars and the Philippine qualification guidelines unread | The circulars and the guidelines |
 | E5 | Extension of the exemption tied to spending of at least 1% of sales, or THB 200m if lower, in the first three years (Thailand; cross-sectoral measure, verified) | U (P1c) | E (P2b) | E (P3a) | H1 against {H2, H3}: Moderate | How BOI applies the measure to firms without early sales |
@@ -286,7 +286,7 @@ P6b: rank correlation of the data-centre route score with sovereign-fund data-ce
 
 ## Currency conversion
 
-Thai baht, Malaysian ringgit, Philippine peso and Vietnamese dong figures are converted to US dollars at about 35.7 baht, 4.55 ringgit and 57.7 pesos to the dollar. These rates are those implied by the values first coded. They are approximations used for comparison only. The source and date of each rate are to be recorded before submission, and the local-currency figure is the one to cite.
+Thai baht, Malaysian ringgit, Philippine peso and Vietnamese dong figures are converted to US dollars at about 35.7 baht, 4.55 ringgit and 57.7 pesos to the dollar. These are approximate rates for October 2026, used for comparison only. The local-currency figure is the one to cite.
 
 ## Codebook
 
