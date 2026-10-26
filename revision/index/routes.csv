@@ -1,0 +1,12 @@
+route,country,layer,threshold_usd_m,basis,CB,CB_viable,CC,VB,DL,SI_rows,I_equal,I_capital x2,I_no delivery,I_capital only,I_friction x2,I_viable-fleet capital
+TH-SW,Thailand,(i),0.042,annual salary spend (not capital),0.0,0.0,0.0,0.5,1.0,1,0.375,0.3,0.167,0.0,0.3,0.375
+TH-CLOUD,Thailand,(ii),,none stated,0.0,0.0,0.667,0.5,1.0,21,0.542,0.433,0.389,0.0,0.567,0.542
+TH-GPU,Thailand,(ii),140.0,minimum capital,0.9,0.214,0.333,0.5,1.0,4,0.683,0.727,0.578,0.9,0.613,0.512
+TH-DC,Thailand,(iii),40.3,capital to host 2 MW (21.4 to 76),0.719,0.033,0.333,0.5,1.0,22,0.638,0.654,0.517,0.719,0.577,0.467
+VN-START,Viet Nam,(i),,none stated,0.0,0.0,0.333,0.0,0.5,"8, 9",0.208,0.167,0.111,0.0,0.233,0.208
+VN-CLOUD,Viet Nam,(ii),,none stated,0.0,0.0,0.333,1.0,0.5,"11, 25",0.458,0.367,0.444,0.0,0.433,0.458
+MY-MD,Malaysia,(i)+(ii),0.011,paid-up capital,0.0,0.0,0.333,0.5,1.0,14,0.458,0.367,0.278,0.0,0.433,0.458
+MY-DESAC,Malaysia,(ii)+(iii),17.1,capital to host 0.85 MW (9.1 to 32.3),0.595,0.0,0.667,0.5,1.0,"15, 16, 17, 23",0.691,0.671,0.587,0.595,0.686,0.542
+PH-SW,Philippines,(i)+(ii),,none stated,0.0,0.0,0.667,0.5,1.0,"18, 27",0.542,0.433,0.389,0.0,0.567,0.542
+PH-AI,Philippines,(i),,none stated,0.0,0.0,0.667,0.5,1.0,"18, 28",0.542,0.433,0.389,0.0,0.567,0.542
+PH-DC,Philippines,(iii),,none stated,0.0,0.0,0.667,0.5,1.0,"18, 29",0.542,0.433,0.389,0.0,0.567,0.542
