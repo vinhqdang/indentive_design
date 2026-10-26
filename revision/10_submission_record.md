@@ -73,3 +73,9 @@ Tài trợ: không có. Xung đột lợi ích: không có. AI tạo sinh: polis
 * Yêu cầu để bài xuất bản được ở loại tạp chí này: (i) xây dựng chỉ số minh bạch, đo được cho các chiều của ưu đãi liên quan AI; (ii) liên kết với dữ liệu cấp quốc gia, tốt hơn là cấp doanh nghiệp hoặc ngành, để nghiên cứu quan hệ giữa công cụ chính sách và kết quả kinh tế.
 * Đây là phản hồi thực chất đầu tiên sau ba lần bị từ chối (hai lần trước do phạm vi). Lần từ chối thứ hai của RDE (bài gốc) cũng có nhận xét; hướng cải thiện chung: cần kết quả kinh tế, không chỉ mã hoá văn bản.
 * Hướng tiếp theo cần quyết định: (a) nâng cấp thành bài kinh tế (chỉ số + dữ liệu kết quả); (b) giữ bài mô tả và chọn tạp chí chính sách hoặc luật đầu tư coi trọng việc lập bản đồ chính sách.
+
+## Nâng cấp bài theo nhận xét của ADR (26/10/2026)
+* Quyết định: nâng cấp thành bài kinh tế (chỉ số đo được + liên kết với kết quả), không nộp lại bản cũ.
+* Đã làm: chỉ số rào cản gia nhập (`revision/index/build_index.py`, `index_results.md`, `routes.csv`); dự đoán ghi trước khi nhìn dữ liệu kết quả (`PREREGISTERED_PREDICTIONS.md`).
+* Dữ liệu kết quả cấp dự án thu từ web công khai (62 dự án, `index/outcomes_raw/`) quá thưa để kiểm định: quốc tịch chủ sở hữu biết ở khoảng 42%, gần như toàn trung tâm dữ liệu lớn, không có nhà cung cấp nhỏ, nhiều nguồn chính thức chặn truy cập. Chưa chạy kiểm định nào.
+* Cần: dữ liệu dự án chất lượng hơn (ví dụ fDi Markets của Financial Times, hoặc cơ sở dữ liệu trung tâm dữ liệu có trả phí) qua thư viện BUV hoặc RMIT.

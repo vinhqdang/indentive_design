@@ -1,0 +1,3 @@
+# Raw outcome data collected from public web sources (not analysed)
+
+Four CSV pairs (projects, aggregates) for Malaysia, the Philippines, Thailand and Viet Nam, collected on 26 October 2026 by web search, each row with a source URL and quote. They are a starting point only. Coverage is uneven (many primary sources blocked automated access), nationality of the owner is stated for a minority of projects, almost all projects are large data centres, and no small provider is represented. They are not suitable for the cross-country tests set out in `PREREGISTERED_PREDICTIONS.md`, and no test has been run on them.
