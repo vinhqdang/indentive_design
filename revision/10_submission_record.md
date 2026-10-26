@@ -67,3 +67,9 @@ Tài trợ: không có. Xung đột lợi ích: không có. AI tạo sinh: polis
 * Khi bài được chấp nhận phải đổi tài liệu tham khảo sang Chicago tác giả-năm với tên đầy đủ, và trích dẫn trong bài sang dạng (Tác giả Năm) không dấu phẩy; hiện đang dùng APA nhất quán. Cần Word sửa được, biểu đồ dạng Excel hoặc EPS.
 * File: `14_adr_manuscript.docx`, `14a_adr_cover_page.docx`, `14b_adr_cover_letter.docx`, `05_supporting_information.docx` (phụ lục trực tuyến, không tính vào giới hạn từ), `tp_files/Figure_1_gray.png` và `Figure_1_gray.pdf`.
 * Còn thiếu: đơn vị (khoa hoặc bộ môn) và số điện thoại của hai tác giả trong cover page.
+
+## Asian Development Review: bị từ chối (26/10/2026)
+* Mã bài ADR-D-26-00281; Editor-in-Chief John Gibson; có nhận xét của một thành viên ban biên tập. Lý do: phân loại 29 công cụ từ văn bản chính sách "worthwhile" nhưng không đủ làm một bài nghiên cứu độc lập; phân tích chủ yếu mô tả; không thiết lập được khác biệt thiết kế chính sách chuyển thành kết quả kinh tế thế nào; hệ quả kinh tế rộng hơn chưa rõ.
+* Yêu cầu để bài xuất bản được ở loại tạp chí này: (i) xây dựng chỉ số minh bạch, đo được cho các chiều của ưu đãi liên quan AI; (ii) liên kết với dữ liệu cấp quốc gia, tốt hơn là cấp doanh nghiệp hoặc ngành, để nghiên cứu quan hệ giữa công cụ chính sách và kết quả kinh tế.
+* Đây là phản hồi thực chất đầu tiên sau ba lần bị từ chối (hai lần trước do phạm vi). Lần từ chối thứ hai của RDE (bài gốc) cũng có nhận xét; hướng cải thiện chung: cần kết quả kinh tế, không chỉ mã hoá văn bản.
+* Hướng tiếp theo cần quyết định: (a) nâng cấp thành bài kinh tế (chỉ số + dữ liệu kết quả); (b) giữ bài mô tả và chọn tạp chí chính sách hoặc luật đầu tư coi trọng việc lập bản đồ chính sách.
