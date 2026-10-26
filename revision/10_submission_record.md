@@ -79,3 +79,8 @@ Tài trợ: không có. Xung đột lợi ích: không có. AI tạo sinh: polis
 * Đã làm: chỉ số rào cản gia nhập (`revision/index/build_index.py`, `index_results.md`, `routes.csv`); dự đoán ghi trước khi nhìn dữ liệu kết quả (`PREREGISTERED_PREDICTIONS.md`).
 * Dữ liệu kết quả cấp dự án thu từ web công khai (62 dự án, `index/outcomes_raw/`) quá thưa để kiểm định: quốc tịch chủ sở hữu biết ở khoảng 42%, gần như toàn trung tâm dữ liệu lớn, không có nhà cung cấp nhỏ, nhiều nguồn chính thức chặn truy cập. Chưa chạy kiểm định nào.
 * Cần: dữ liệu dự án chất lượng hơn (ví dụ fDi Markets của Financial Times, hoặc cơ sở dữ liệu trung tâm dữ liệu có trả phí) qua thư viện BUV hoặc RMIT.
+
+## Bản nâng cấp (26/10/2026), chưa nộp
+* `20_upgrade_manuscript.docx` (nguồn `.md`): bài viết lại quanh chỉ số rào cản gia nhập (11 tuyến, 4 chiều), mô hình khả thi của nhà cung cấp nhỏ và kiểm tra khớp với kết quả theo 5 dự đoán ghi trước. Số liệu kết quả: thống kê phê duyệt BOI 2025, dữ liệu cụm GPU của Epoch AI (do bạn cung cấp), 62 bản ghi dự án thu từ web (chỉ dùng cho quy mô dự án so với ngưỡng).
+* Kết quả: P1 ủng hộ (n=4 tuyến), P2 ủng hộ một phần, P3 không ủng hộ (dự án lớn hơn ngưỡng nhiều lần), P4 chưa kết luận, P5 phù hợp. Rất nhỏ mẫu, mô tả, không nhân quả; bài nói thẳng như vậy.
+* Chưa có: dữ liệu cấp doanh nghiệp (fDi Markets, Orbis); chưa chọn tạp chí; chưa soạn title page và cover letter cho bản này.

@@ -5,7 +5,7 @@ subtitle: "Instrument-level coding matrix for \"Incentive Design, Ownership, and
 
 ## Purpose
 
-This document gives the instrument-level data behind Tables 1 to 5 of the manuscript, so that the coding can be replicated. Each row is one instrument: a specific tax exemption, grant, eligibility rule or compliance requirement. The unit of analysis is the instrument, not the strategy document. A single scheme, such as Thailand's digital division, bundles several instruments, and each is coded in its own row. Table S1 holds 29 instruments, in four blocks by country; Tables S2 to S6 give the sources, the full evidence matrix, an illustrative ladder, the viability benchmark and the second-coder check. Rows 1 to 20 are the first-coded instruments, and rows 21 to 29 were added when the primary texts were read in full for the compute layers.
+This document gives the instrument-level data behind Tables 1 to 5 of the manuscript, so that the coding can be replicated. Each row is one instrument: a specific tax exemption, grant, eligibility rule or compliance requirement. The unit of analysis is the instrument, not the strategy document. A single scheme, such as Thailand's digital division, bundles several instruments, and each is coded in its own row. Table S1 holds 29 instruments, in four blocks by country; Tables S2 to S8 give the sources, the full evidence matrix, an illustrative ladder, the viability benchmark, the second-coder check, the index and the outcome analysis. Rows 1 to 20 are the first-coded instruments, and rows 21 to 29 were added when the primary texts were read in full for the compute layers.
 
 ## How to read Table S1
 
@@ -175,6 +175,100 @@ Kappa is moderate on layer and accommodation, as expected for categories that de
 | 27, 28, 29 | Delivery | Indirect | Eligibility status | Eligibility status: the listing confers eligibility and benefits follow by tier |
 
 The coded sheets of both coders are in the replication files (`09a_second_coder_codes.csv`). The second coder also drew attention to provisions that the first coder had summarised thinly: annual claim and performance-metric obligations under the Philippine rules (row 18), the Philippine annual capital and export test for high-value enterprises (row 19), the Thai Guide's sub-committee approval for data centres (row 22) and the Vietnamese land-rent exemption (row 25). These are now in Table S1.
+
+## Table S7. Entry-barrier index: scoring and results
+
+The index scores 11 entry routes on four dimensions, using rules fixed before the outcome data were analysed. Capital barrier: the base-10 logarithm of the capital threshold over US$0.28 million (capital to host one eight-accelerator server), divided by three and bounded between 0 and 1. Compliance friction: the number of fixed-cost obligations among five (external certification; external audit at own cost; mandated certified or third-party location; annual report with inspection; application documentation and annual claim), capped at three and divided by three. Vintage barrier: 0 with an explicit new-firm accommodation, 1 if eligibility presupposes prior revenue, 0.5 otherwise. Delivery: 1 for indirect support only, 0.5 for both, 0 for direct only. Route inputs and the Supplementary Table S1 rows behind them are in `routes.csv` and `build_index.py`.
+
+Scores run from 0 (open) to 1 (restrictive). Dimensions: CB capital barrier, CC compliance friction, VB vintage barrier, DL delivery that presupposes profit. Composite is the equal-weight mean.
+
+| Route | Country | Layer | Threshold (US$m) | CB | CC | VB | DL | Composite | Composite, viable-fleet capital |
+|---|---|---|---|---|---|---|---|---|---|
+| TH-SW | Thailand | (i) | 0.042 | 0.00 | 0.00 | 0.5 | 1.0 | 0.38 | 0.38 |
+| TH-CLOUD | Thailand | (ii) | none | 0.00 | 0.67 | 0.5 | 1.0 | 0.54 | 0.54 |
+| TH-GPU | Thailand | (ii) | 140.0 | 0.90 | 0.33 | 0.5 | 1.0 | 0.68 | 0.51 |
+| TH-DC | Thailand | (iii) | 40.3 | 0.72 | 0.33 | 0.5 | 1.0 | 0.64 | 0.47 |
+| VN-START | Viet Nam | (i) | none | 0.00 | 0.33 | 0.0 | 0.5 | 0.21 | 0.21 |
+| VN-CLOUD | Viet Nam | (ii) | none | 0.00 | 0.33 | 1.0 | 0.5 | 0.46 | 0.46 |
+| MY-MD | Malaysia | (i)+(ii) | 0.011 | 0.00 | 0.33 | 0.5 | 1.0 | 0.46 | 0.46 |
+| MY-DESAC | Malaysia | (ii)+(iii) | 17.1 | 0.59 | 0.67 | 0.5 | 1.0 | 0.69 | 0.54 |
+| PH-SW | Philippines | (i)+(ii) | none | 0.00 | 0.67 | 0.5 | 1.0 | 0.54 | 0.54 |
+| PH-AI | Philippines | (i) | none | 0.00 | 0.67 | 0.5 | 1.0 | 0.54 | 0.54 |
+| PH-DC | Philippines | (iii) | none | 0.00 | 0.67 | 0.5 | 1.0 | 0.54 | 0.54 |
+
+#### Country compute-entry score (lowest composite among compute routes)
+
+| Country | Entry score | Facility-route score |
+|---|---|---|
+| Malaysia | 0.46 | 0.69 |
+| Philippines | 0.54 | 0.54 |
+| Thailand | 0.54 | 0.64 |
+| Viet Nam | 0.46 |  |
+
+#### Sensitivity of the route ranking to weights
+
+| Weighting | TH-SW | TH-CLOUD | TH-GPU | TH-DC | VN-START | VN-CLOUD | MY-MD | MY-DESAC | PH-SW | PH-AI | PH-DC |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| equal (rho with equal weights 1.00) | 0.38 | 0.54 | 0.68 | 0.64 | 0.21 | 0.46 | 0.46 | 0.69 | 0.54 | 0.54 | 0.54 |
+| capital x2 (rho with equal weights 0.99) | 0.30 | 0.43 | 0.73 | 0.65 | 0.17 | 0.37 | 0.37 | 0.67 | 0.43 | 0.43 | 0.43 |
+| no delivery (rho with equal weights 0.88) | 0.17 | 0.39 | 0.58 | 0.52 | 0.11 | 0.44 | 0.28 | 0.59 | 0.39 | 0.39 | 0.39 |
+| capital only (rho with equal weights 0.77) | 0.00 | 0.00 | 0.90 | 0.72 | 0.00 | 0.00 | 0.00 | 0.59 | 0.00 | 0.00 | 0.00 |
+| friction x2 (rho with equal weights 1.00) | 0.30 | 0.57 | 0.61 | 0.58 | 0.23 | 0.43 | 0.43 | 0.69 | 0.57 | 0.57 | 0.57 |
+| viable-fleet capital (rho with equal weights 0.70) | 0.38 | 0.54 | 0.51 | 0.47 | 0.21 | 0.46 | 0.46 | 0.54 | 0.54 | 0.54 | 0.54 |
+
+Random weights (Dirichlet(1,1,1,1), 20000 draws): share of draws in which each country has the lowest compute-entry score: Malaysia 50%, Philippines 0%, Thailand 0%, Viet Nam 50%. Thailand's entry score is higher than at least one of Malaysia and Viet Nam in 100% of draws.
+
+## Table S8. Index against outcomes and predictions
+
+## A. Thailand: BOI approvals by route, 2025
+
+| Route | Activity | Index (composite) | Capital barrier | Projects | Mean investment (THB million) | Thai-held share of registered capital (%) |
+|---|---|---|---|---|---|---|
+| TH-SW | 8.1.1 software | 0.38 | 0.00 | 96 | 9.7 | 46 |
+| TH-CLOUD | 8.2.2 cloud (Siam AI project only) | 0.54 | 0.00 | 1 | 3,250.0 | 100 |
+| TH-DC | 8.2.1 data centres | 0.64 | 0.72 | 24 | 19,083.3 | 15 |
+| TH-GPU | 8.2.4 data hosting (TikTok project only) | 0.68 | 0.90 | 1 | 126,793.0 | 0 |
+
+Rank correlation of the composite index with mean project investment: 1.00 (n = 4). With the Thai-held share: -0.80 (n = 4). The cloud route has one project, owned by a Thai firm, which breaks the monotonic fall in the Thai-held share with the index. With four points no significance test is meaningful.
+
+#### B. Epoch AI GPU clusters in the four economies
+
+| Country | Cluster | Owner origin | First operational | H100 equivalents | Power (MW) |
+|---|---|---|---|---|---|
+| Malaysia | Alibaba Cloud in Malaysia Phase 2 | foreign hyperscaler | 2025-07-01 | n/a | n/a |
+| Philippines | Alibaba Cloud in Philippines Phase 1 | foreign hyperscaler | 2021-07-01 | n/a | n/a |
+| Singapore | Sustainable Metal Cloud Singapore Phase 1 | Singapore-based (private) | 2024-05-30 | 1,024 | 1.46 |
+| Thailand | Alibaba Cloud in Thailand Phase 1 | foreign hyperscaler | 2022-07-01 | n/a | n/a |
+| Thailand | NSTDA Supercomputer Center (ThaiSC) LANTA | Thai (public) | 2022-11-01 | 222 | 0.54 |
+| Thailand | GreenNode Bangkok Cluster | Vietnamese firm in Thailand (private) | 2024-06-25 | 1,024 | 1.46 |
+| Thailand | SIAM AI HGX | Thai (private) | 2024-09-12 | 1,024 | 1.46 |
+| Thailand | Alibaba Cloud in Thailand Phase 2 | foreign hyperscaler | 2025-01-15 | n/a | n/a |
+| Vietnam | Vingroup VinAI Research Superpod | Vietnamese (private) | 2021-05-30 | 50 | 0.14 |
+
+Domestic or regional private AI clusters listed in the four economies: 3 (Thailand 2, Viet Nam 1, Malaysia 0, Philippines 0). The two Thai clusters have 1,024 H100 equivalents (128 eight-GPU servers) and 1.46 MW, below the 2 MW data-centre condition and inside the 45 to 270 server range of the viability benchmark. Epoch lists large clusters only, so smaller providers are not represented.
+
+#### C. Project size against stated capacity thresholds (collected records, indicative)
+
+| Country | Projects with stated IT load | Smallest (MW) | Median (MW) | Largest (MW) | Stated threshold (MW) | Below threshold |
+|---|---|---|---|---|---|---|
+| Thailand | 18 | 12 | 108 | 300 | 2.0 | 0 |
+| Malaysia | 3 | 120 | 150 | 256 | 0.85 | 0 |
+| Viet Nam | 6 | 52 | 60 | 140 | none stated | n/a |
+| Philippines | 6 | 10 | 60 | 124 | none stated | n/a |
+
+Approved or announced data-centre projects are 10 to 300 MW, six or more times the stated minima, so the capacity thresholds do not bind on the projects that appear in public records.
+
+#### D. Predictions fixed in advance and what the data show
+
+| Prediction | Result | Reading |
+|---|---|---|
+| P1 scale gate and project size | Supported (rank correlation 1.00, four Thai routes) | Mean project size rises with the capital barrier. Two routes rest on one project. |
+| P2 barrier and domestic share | Partly supported (rank correlation -0.80) | Thai-held share falls with the index except in the cloud route, which has one Thai-owned project. |
+| P3 bunching at the threshold | Not supported as stated | Projects start far above the stated minima (12 MW against 2 MW; 120 MW against 0.85 MW), so thresholds do not bind on these projects. |
+| P4 friction on low-capital routes | Inconclusive | Software route: 96 approved projects; cloud route: one project known to us, because BOI approvals for the cloud activity were not obtained; no verified small project under Malaysia Digital or the Viet Nam cloud listing. |
+| P5 rule-light systems do not guarantee domestic entry | Consistent, coverage-limited | Domestic private AI clusters: Thailand 2, Viet Nam 1, Malaysia 0, Philippines 0; the two systems without capital rules (Viet Nam, Philippines) have no more than Thailand. |
+
+Counter-evidence to the design reading: capacity thresholds are not where entrants cluster, which fits H1 (cost) as an explanation of why thresholds sit near facility scale.
 
 ## Currency conversion
 

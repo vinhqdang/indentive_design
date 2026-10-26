@@ -61,7 +61,7 @@ for ctry, f, th in (("Thailand", "outcomes_raw/thailand_projects.csv", 2.0), ("M
                     ("Viet Nam", "outcomes_raw/vietnam_projects.csv", None), ("Philippines", "outcomes_raw/philippines_projects.csv", None)):
     n, lo, md, hi, below = mw(f, th if th else 0)
     out.append(f"| {ctry} | {n} | {lo:g} | {md:g} | {hi:g} | {th if th else 'none stated'} | {below if th else 'n/a'} |")
-out += ["", "Approved or announced data-centre projects are 10 to 300 MW, five to 150 times the stated minima, so the capacity thresholds do not bind on the projects that appear in public records.", ""]
+out += ["", "Approved or announced data-centre projects are 10 to 300 MW, six or more times the stated minima, so the capacity thresholds do not bind on the projects that appear in public records.", ""]
 
 # D. Scoreboard
 out += ["## D. Predictions fixed in advance and what the data show", "",

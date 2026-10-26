@@ -36,7 +36,7 @@ Domestic or regional private AI clusters listed in the four economies: 3 (Thaila
 | Viet Nam | 6 | 52 | 60 | 140 | none stated | n/a |
 | Philippines | 6 | 10 | 60 | 124 | none stated | n/a |
 
-Approved or announced data-centre projects are 10 to 300 MW, five to 150 times the stated minima, so the capacity thresholds do not bind on the projects that appear in public records.
+Approved or announced data-centre projects are 10 to 300 MW, six or more times the stated minima, so the capacity thresholds do not bind on the projects that appear in public records.
 
 ## D. Predictions fixed in advance and what the data show
 
