@@ -95,3 +95,10 @@ Tài trợ: không có. Xung đột lợi ích: không có. AI tạo sinh: polis
 * Nộp bằng email tới tncj@unctad.org (cổng email, không có hệ thống trực tuyến); kèm tuyên bố chưa nộp nơi khác, xung đột lợi ích (nêu rõ nếu không có) và tài trợ. Chưa rõ kiểu phản biện (kín một chiều hay hai chiều); tạp chí chỉ yêu cầu văn bản chính không nêu danh tính tác giả.
 * File: `21_tnc_manuscript.docx` (ẩn danh), `21a_tnc_title_page.docx`, `21b_tnc_cover_email.docx` (nội dung thư và email), `05_supporting_information.docx`.
 * Còn thiếu: số điện thoại của hai tác giả; bản nâng cấp vẫn là phân tích nhỏ mẫu; nếu có dữ liệu fDi Markets thì thêm vào.
+
+## Đã nộp: Transnational Corporations (UNCTAD), 26/10/2026
+* Nộp bằng email tới tncj@unctad.org, tiêu đề "Submission to Transnational Corporations: Entry Barriers in AI Investment Incentives: An Index and Evidence from Four Southeast Asian Economies".
+* Đính kèm: `21_tnc_manuscript.docx` (ẩn danh), `21a_tnc_title_page.docx` (đã có số điện thoại tác giả liên hệ), `05_supporting_information.docx`. Nội dung email theo `21b_tnc_cover_email.docx`.
+* Tuyên bố trong hồ sơ: chưa nộp nơi khác, không có xung đột lợi ích, không có tài trợ.
+* Trạng thái: chờ phản hồi. Chưa rõ thời gian xử lý và kiểu phản biện.
+* Việc tùy chọn nếu bị yêu cầu sửa: dữ liệu cấp doanh nghiệp (fDi Markets, Orbis), người mã hoá thứ hai là người thật (`03a_second_coder_blind_sheet.csv`), đối chiếu văn bản gốc tiếng Thái, thông tư Việt Nam và hướng dẫn SIPP.
