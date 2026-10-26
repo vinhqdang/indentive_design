@@ -71,6 +71,27 @@ f"| P2 barrier and domestic share | Partly supported (rank correlation {rho_thai
 "| P3 bunching at the threshold | Not supported as stated | Projects start far above the stated minima (12 MW against 2 MW; 120 MW against 0.85 MW), so thresholds do not bind on these projects. |",
 "| P4 friction on low-capital routes | Inconclusive | Software route: 96 approved projects; cloud route: one project known to us, because BOI approvals for the cloud activity were not obtained; no verified small project under Malaysia Digital or the Viet Nam cloud listing. |",
 "| P5 rule-light systems do not guarantee domestic entry | Consistent, coverage-limited | Domestic private AI clusters: Thailand 2, Viet Nam 1, Malaysia 0, Philippines 0; the two systems without capital rules (Viet Nam, Philippines) have no more than Thailand. |",
+"| P6a (exploratory) lower entry-route barrier, more digital greenfield investment | Consistent (-0.89, four countries) | Malaysia and Viet Nam, with the lowest entry scores, attract the most; the Philippines, with a higher score, is outside the top ten. |",
+"| P6b (exploratory) higher data-centre route barrier, less data-centre investment | Not supported (+0.50, three countries) | Malaysia has the highest data-centre route score and the largest data-centre investment. |",
 "", "Counter-evidence to the design reading: capacity thresholds are not where entrants cluster, which fits H1 (cost) as an explanation of why thresholds sit near facility scale."]
+
+# E. Country level (exploratory; UNCTAD WIR 2025, fDi Markets, announced greenfield 2020 to 2024)
+entry = {"Malaysia": 0.46, "Viet Nam": 0.46, "Philippines": 0.54, "Thailand": 0.54}
+facility = {"Malaysia": 0.69, "Thailand": 0.64, "Philippines": 0.54}
+digital_bn = {"Malaysia": 74.0, "Viet Nam": 32.0, "Thailand": 16.0, "Philippines": 15.9}   # Philippines: not in the top ten, so at most 16; 15.9 stands for "below 16"
+swf = {"Malaysia": (44, 2153), "Philippines": (4, 763), "Thailand": (1, 266), "Viet Nam": (1, 191)}
+c = ["Malaysia", "Philippines", "Thailand", "Viet Nam"]
+rho6a = spearman([entry[x] for x in c], [digital_bn[x] for x in c])
+c3 = ["Malaysia", "Philippines", "Thailand"]
+rho6b = spearman([facility[x] for x in c3], [swf[x][1] for x in c3])
+out += ["", "## E. Country level (exploratory)", "",
+        "| Country | Entry-route score | Data-centre route score | Digital greenfield announced 2020-2024 (US$ billion) | Sovereign-fund data-centre projects 2020-2024 (number; US$ million) |",
+        "|---|---|---|---|---|"]
+for x in c:
+    d = "below 16 (outside top ten)" if x == "Philippines" else f"{digital_bn[x]:.0f}"
+    out.append(f"| {x} | {entry[x]:.2f} | {facility.get(x, 'none'):} | {d} | {swf[x][0]}; {swf[x][1]:,} |")
+out += ["", f"P6a: rank correlation of the entry-route score with announced digital greenfield value: {rho6a:.2f} (n = 4, with tied scores). A lower barrier goes with more investment, as predicted.",
+        f"P6b: rank correlation of the data-centre route score with sovereign-fund data-centre investment: {rho6b:.2f} (n = 3). A positive value runs against the prediction: Malaysia has the highest data-centre route score and the most investment.", ""]
 open("analysis_results.md", "w", encoding="utf-8").write("\n".join(out)+"\n")
-print("\n".join(out))
+print("\n".join(out[-14:]))
+

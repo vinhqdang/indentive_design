@@ -267,8 +267,22 @@ Approved or announced data-centre projects are 10 to 300 MW, six or more times t
 | P3 bunching at the threshold | Not supported as stated | Projects start far above the stated minima (12 MW against 2 MW; 120 MW against 0.85 MW), so thresholds do not bind on these projects. |
 | P4 friction on low-capital routes | Inconclusive | Software route: 96 approved projects; cloud route: one project known to us, because BOI approvals for the cloud activity were not obtained; no verified small project under Malaysia Digital or the Viet Nam cloud listing. |
 | P5 rule-light systems do not guarantee domestic entry | Consistent, coverage-limited | Domestic private AI clusters: Thailand 2, Viet Nam 1, Malaysia 0, Philippines 0; the two systems without capital rules (Viet Nam, Philippines) have no more than Thailand. |
+| P6a (exploratory) lower entry-route barrier, more digital greenfield investment | Consistent (-0.89, four countries) | Malaysia and Viet Nam, with the lowest entry scores, attract the most; the Philippines, with a higher score, is outside the top ten. |
+| P6b (exploratory) higher data-centre route barrier, less data-centre investment | Not supported (+0.50, three countries) | Malaysia has the highest data-centre route score and the largest data-centre investment. |
 
 Counter-evidence to the design reading: capacity thresholds are not where entrants cluster, which fits H1 (cost) as an explanation of why thresholds sit near facility scale.
+
+#### E. Country level (exploratory)
+
+| Country | Entry-route score | Data-centre route score | Digital greenfield announced 2020-2024 (US$ billion) | Sovereign-fund data-centre projects 2020-2024 (number; US$ million) |
+|---|---|---|---|---|
+| Malaysia | 0.46 | 0.69 | 74 | 44; 2,153 |
+| Philippines | 0.54 | 0.54 | below 16 (outside top ten) | 4; 763 |
+| Thailand | 0.54 | 0.64 | 16 | 1; 266 |
+| Viet Nam | 0.46 | none | 32 | 1; 191 |
+
+P6a: rank correlation of the entry-route score with announced digital greenfield value: -0.89 (n = 4, with tied scores). A lower barrier goes with more investment, as predicted.
+P6b: rank correlation of the data-centre route score with sovereign-fund data-centre investment: 0.50 (n = 3). A positive value runs against the prediction: Malaysia has the highest data-centre route score and the most investment.
 
 ## Currency conversion
 

@@ -84,3 +84,8 @@ Tài trợ: không có. Xung đột lợi ích: không có. AI tạo sinh: polis
 * `20_upgrade_manuscript.docx` (nguồn `.md`): bài viết lại quanh chỉ số rào cản gia nhập (11 tuyến, 4 chiều), mô hình khả thi của nhà cung cấp nhỏ và kiểm tra khớp với kết quả theo 5 dự đoán ghi trước. Số liệu kết quả: thống kê phê duyệt BOI 2025, dữ liệu cụm GPU của Epoch AI (do bạn cung cấp), 62 bản ghi dự án thu từ web (chỉ dùng cho quy mô dự án so với ngưỡng).
 * Kết quả: P1 ủng hộ (n=4 tuyến), P2 ủng hộ một phần, P3 không ủng hộ (dự án lớn hơn ngưỡng nhiều lần), P4 chưa kết luận, P5 phù hợp. Rất nhỏ mẫu, mô tả, không nhân quả; bài nói thẳng như vậy.
 * Chưa có: dữ liệu cấp doanh nghiệp (fDi Markets, Orbis); chưa chọn tạp chí; chưa soạn title page và cover letter cho bản này.
+
+## Bổ sung dữ liệu UNCTAD WIR 2025 và 2026 (26/10/2026)
+* Tải từ unctad.org (bản 2025: chủ đề kinh tế số; bản 2026). Số liệu cấp nước từ fDi Markets: dự án đầu tư xanh kinh tế số 2020 đến 2024 (Malaysia 74, Việt Nam 32, Thái Lan 16 tỷ USD; Philippines ngoài top 10); dự án trung tâm dữ liệu của quỹ tài sản quốc gia; tăng trưởng FDI 2025.
+* Hai dự đoán thăm dò thêm sau khi xem dữ liệu (ghi rõ trong `PREREGISTERED_PREDICTIONS.md`): P6a (ngưỡng vào thấp, đầu tư số nhiều hơn): phù hợp (hệ số hạng −0,89, bốn nước); P6b (rào cản tuyến trung tâm dữ liệu cao, đầu tư trung tâm dữ liệu ít hơn): không ủng hộ (+0,50, ba nước), vì Malaysia có rào cản cao nhất và đầu tư lớn nhất.
+* Bản `20_upgrade_manuscript` cập nhật (khoảng 5.700 từ); tóm tắt, mục 4.4, thảo luận, kết luận sửa theo.
