@@ -11,3 +11,12 @@ The incentive index scores 12 entry routes (country by activity) on four dimensi
 * **P5, a rule-light system does not guarantee domestic entry.** In Viet Nam and the Philippines, where no capital rule is stated at the compute layers, the observed domestic share is not systematically higher than in Thailand and Malaysia. Test: compare domestic shares; a clearly higher domestic share in the rule-light systems would count against the index as an explanation of entry.
 
 What would count against the index: a negative rank correlation in P1 or P2, projects well below stated thresholds in P3, or a clearly higher domestic share in the rule-light systems in P5.
+
+## Addendum, 26 October 2026 (exploratory, added after the UNCTAD World Investment Report 2025 and 2026 data were seen)
+
+P1 to P5 above were fixed before any outcome data were analysed. The country-level figures from the World Investment Report 2025 (announced greenfield digital-economy projects, 2020 to 2024, from fDi Markets) were read after P1 to P5 were fixed, so the two predictions below are exploratory and are reported as such.
+
+* **P6a.** Countries whose lowest-barrier compute route has a lower composite score attract more announced digital-economy greenfield investment. Test: rank correlation across Malaysia, the Philippines, Thailand and Viet Nam.
+* **P6b.** Countries whose data-centre route has a higher composite score attract less announced data-centre investment. Test: rank correlation across the countries with a data-centre route score (Malaysia, the Philippines, Thailand).
+
+Both are descriptive consistency checks with four or three countries, not tests of effects.
