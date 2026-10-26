@@ -89,3 +89,9 @@ Tài trợ: không có. Xung đột lợi ích: không có. AI tạo sinh: polis
 * Tải từ unctad.org (bản 2025: chủ đề kinh tế số; bản 2026). Số liệu cấp nước từ fDi Markets: dự án đầu tư xanh kinh tế số 2020 đến 2024 (Malaysia 74, Việt Nam 32, Thái Lan 16 tỷ USD; Philippines ngoài top 10); dự án trung tâm dữ liệu của quỹ tài sản quốc gia; tăng trưởng FDI 2025.
 * Hai dự đoán thăm dò thêm sau khi xem dữ liệu (ghi rõ trong `PREREGISTERED_PREDICTIONS.md`): P6a (ngưỡng vào thấp, đầu tư số nhiều hơn): phù hợp (hệ số hạng −0,89, bốn nước); P6b (rào cản tuyến trung tâm dữ liệu cao, đầu tư trung tâm dữ liệu ít hơn): không ủng hộ (+0,50, ba nước), vì Malaysia có rào cản cao nhất và đầu tư lớn nhất.
 * Bản `20_upgrade_manuscript` cập nhật (khoảng 5.700 từ); tóm tắt, mục 4.4, thảo luận, kết luận sửa theo.
+
+## Tạp chí chọn cho bản nâng cấp: Transnational Corporations (UNCTAD), 26/10/2026
+* Lý do: tạp chí về FDI và chính sách đầu tư, miễn phí và truy cập mở, dùng dữ liệu UNCTAD như bài này; giới hạn 10.000 từ tính cả mọi thứ (bài khoảng 5.500 từ); tóm tắt tối đa 150 từ (120); 4 đến 8 từ khoá (6); mã JEL bắt buộc (F21, F23, H25, L52, O25); chính tả theo UN (-ize); trích dẫn kiểu Dunning (tác giả-năm, tên trước, chữ cái đầu sau); tài liệu web đưa vào chú thích chứ không vào danh mục tham khảo; bảng và hình ở cuối kèm dấu "Put table N here"; giãn dòng đôi, lề rộng, đánh số trang; văn bản chính ẩn danh.
+* Nộp bằng email tới tncj@unctad.org (cổng email, không có hệ thống trực tuyến); kèm tuyên bố chưa nộp nơi khác, xung đột lợi ích (nêu rõ nếu không có) và tài trợ. Chưa rõ kiểu phản biện (kín một chiều hay hai chiều); tạp chí chỉ yêu cầu văn bản chính không nêu danh tính tác giả.
+* File: `21_tnc_manuscript.docx` (ẩn danh), `21a_tnc_title_page.docx`, `21b_tnc_cover_email.docx` (nội dung thư và email), `05_supporting_information.docx`.
+* Còn thiếu: số điện thoại của hai tác giả; bản nâng cấp vẫn là phân tích nhỏ mẫu; nếu có dữ liệu fDi Markets thì thêm vào.
