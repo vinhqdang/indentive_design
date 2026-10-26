@@ -6,7 +6,7 @@ title: "Entry Barriers in AI Investment Incentives: An Index and Evidence from F
 
 **Authors**
 
-Quang-Vinh Dang (corresponding author), British University Vietnam, Ecopark, Van Giang, Hung Yen, Viet Nam. Email: vinh.dq4@buv.edu.vn. Telephone: [AUTHORS TO ADD]. ORCID: 0000-0002-3877-8024
+Quang-Vinh Dang (corresponding author), British University Vietnam, Ecopark, Van Giang, Hung Yen, Viet Nam. Email: vinh.dq4@buv.edu.vn. Telephone: +84 768 496 935. ORCID: 0000-0002-3877-8024
 
 Thi-Hong-Hanh Nguyen, Banking Academy of Viet Nam, 12 Chua Boc Street, Dong Da District, Hanoi, Viet Nam. Email: hanh.nth1@hvnh.edu.vn
 
